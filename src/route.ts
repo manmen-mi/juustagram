@@ -1,11 +1,13 @@
 import { createRouter, createWebHashHistory, RouterView } from 'vue-router';
 
-import Top from "./Top.vue";
+import Body from "./Body.vue";
+import About from "./About.vue";
 
 const router = createRouter({
     history: createWebHashHistory(),
     routes: [
-        { path: '/', component: Top },
+        { path: '/', component: Body },
+        { path: '/about', component: About },
         // { path: '/input', component: Input },
         // {
         //     path: '/post/:pid',

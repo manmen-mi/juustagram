@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full h-screen form-control bg-base-300">
+  <div class="w-full h-screen form-control">
     <header-vue />
     <router-view />
   </div>
@@ -7,6 +7,5 @@
 
 <script setup>
 import HeaderVue from "./Header.vue";
-
 
 </script>
