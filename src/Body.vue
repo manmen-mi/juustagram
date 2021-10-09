@@ -3,55 +3,15 @@
     <div class="form-control col-span-2 mx-[8%] lg:mx-0">
 
       <!-- article -->
-      <article class="form-control gap-2 w-full border-[#dddddd] border-solid border">
-        <div class="flex gap-4 p-3">
-          <div class="avatar">
-            <div class="rounded-full w-12 h-12 border-[#dddddd] border-solid border-[0.5px]">
-              <img src="/asset/Fusou_METAChibi.png">
-            </div>
-          </div>
-          <span class="font-bold my-auto">fusou</span>
-        </div>
+      <article v-for="post in posts" class="form-control py-1 gap-2 w-full border-[#dddddd] border-solid border">
+        <post-head :kansen="post.kansen" :icon="post.icon" ></post-head>
 
-        <img class="mx-auto" width="512" height="512" src="/asset/Fusou_METAChibi.png">
+        <img class="mx-auto" width="512" height="512" :src="`/asset/juu/${post.pid}.png`">
 
-        <div class="px-4 gap-4 flex flex-row justify-start">
-          <div class="flex gap-2">
-            <span class="material-icons w-6">favorite_border</span>
-            <span class="material-icons w-6">chat_bubble_outlined</span>
-            <span class="ml-1 text-gray-400">e-ne 999+</span>
-          </div>
-        </div>
+        <post-action :pid="post.pid"></post-action>
 
-        <p class="px-4 whitespace-pre-line">
-          <span class="font-bold">fusou</span>
-          article articlearticlearticlearticle
-        </p>
+        <post-articles v-bind="post"></post-articles>
 
-        <div class="form-control gap-0.5 px-4">
-          <span class="text-gray-400">show all comments...</span>
-          <span>
-            <span class="font-bold">fusou</span>
-            comment article Lorem ipsum dolor sit
-          </span>
-        </div>
-
-        <div class="px-4 py-2 border-[#dddddd] border-opacity-60 border-solid border-t-[0.5px]">
-          <div class="dropdown dropdown-top dropdown-hover w-full">
-            <div class="input input-sm w-full text-gray-400 cursor-text">comment...</div>
-            <ul tabindex="0" class="p-2 shadow menu dropdown-content bg-base-100 rounded-box w-52">
-              <li>
-                <a>Item 1</a>
-              </li> 
-              <li>
-                <a>Item 2</a>
-              </li> 
-              <li>
-                <a>Item 3</a>
-              </li>
-            </ul>
-          </div>
-        </div>
       </article>
     </div>
 
@@ -69,9 +29,52 @@
       </div>
     </div>
   </main>
+
+  <!-- detail -->
+  <div v-if="current" class="modal" :class="{'modal-open': pid}" @click.self="$router.push('/')">
+    <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none max-w-[512px] lg:max-w-[975px]">
+      <img class="mx-auto" width="512" height="512" :src="`/asset/juu/${current.pid}.png`">
+
+      <div class="form-control gap-3 max-h-[512px]">
+        <post-head :kansen="current.kansen" :icon="current.icon"></post-head>
+
+        <post-articles v-bind="current" :altmode="true"></post-articles>
+
+        <post-action :pid="current.pid"></post-action>
+      </div>
+    </div>
+  </div>
 </template>
 
-<script setup>
-import { ref } from "vue";
+<script lang="ts" setup>
+import { ref, watchEffect } from "vue";
+
+import PostHead from "./component/PostHead.vue";
+import PostAction from "./component/PostAction.vue";
+import PostArticles from "./component/PostArticles.vue";
+
+const prop = defineProps({
+  pid: String,
+});
+
+const posts = ref([
+  {
+    pid: "1",
+    kansen: "Ootori_Shikikan",
+    icon: "akagi_mu",
+    article: "I'm surprised how good these things are. To eat. Starting from the head, working my way down, ahahaha…",
+    comments: [
+      {
+          "depth": 0,
+          "kansen": "Gascogne µ",
+          "icon": "akagi_mu",
+          "comment": "Assessment: Manjuu are inedible. Photograph depicts a stylized confectionery, likely a bun."
+      },
+    ],
+  }
+]);
+
+const current = ref<any>();
+watchEffect(async () => current.value = prop.pid && await import(`./post/${prop.pid}.json`));
 
 </script>

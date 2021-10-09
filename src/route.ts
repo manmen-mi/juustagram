@@ -9,12 +9,12 @@ const router = createRouter({
         { path: '/', component: Body },
         { path: '/about', component: About },
         // { path: '/input', component: Input },
-        // {
-        //     path: '/post/:pid',
-        //     component: Stage,
-        //     name: 'post',
-        //     props: true,
-        // },
+        {
+            path: '/post/:pid',
+            component: Body,
+            name: 'post',
+            props: true,
+        },
         { path: '/:fallback', redirect: '/' },
     ],
 });
