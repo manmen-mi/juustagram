@@ -6,7 +6,7 @@
       <article v-for="post in posts" class="form-control py-1 gap-2 w-full border-[#dddddd] border-solid border">
         <post-head :kansen="post.kansen" :icon="post.icon" ></post-head>
 
-        <img class="mx-auto" width="512" height="512" :src="`/asset/juu/${post.pid}.png`">
+        <img class="mx-auto" width="512" height="512" :src="`/assets/juu/${post.pid}.png`">
 
         <post-action :pid="post.pid"></post-action>
 
@@ -19,7 +19,7 @@
       <div class="card-body p-5 gap-4 flex-row justify-start">
         <div class="avatar">
           <div class="rounded-full w-16 h-16 border-[#dddddd] border-solid border-[0.5px]">
-            <img src="/asset/kansen/commander.png">
+            <img src="/assets/kansen/commander.png">
           </div>
         </div>
         <div class="form-control my-auto">
@@ -33,7 +33,7 @@
   <!-- detail -->
   <div v-if="current" class="modal" :class="{'modal-open': pid}" @click.self="$router.push('/')">
     <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none w-full max-w-[512px] lg:max-w-[975px]">
-      <img class="w-[512px] max-w-[512px] m-0" width="512" height="512" :src="`/asset/juu/${current.pid}.png`">
+      <img class="w-[512px] max-w-[512px] m-0" width="512" height="512" :src="`/assets/juu/${current.pid}.png`">
 
       <div class="form-control gap-3 max-h-[512px] w-full">
         <post-head :kansen="current.kansen" :icon="current.icon"></post-head>

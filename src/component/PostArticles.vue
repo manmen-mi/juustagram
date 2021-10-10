@@ -3,7 +3,7 @@
     <div class="flex" :class="{'mb-4': altmode}">
       <div v-if="altmode" class="avatar p-3 pt-0">
         <div class="rounded-full w-12 h-12 border-[#888] border-solid border-[0.5px]">
-          <img :src="`/asset/kansen/${icon}.png`">
+          <img :src="`/assets/kansen/${icon}.png`">
         </div>
       </div>
       <p class="whitespace-pre-line w-full" :class="{'py-2': altmode}">
@@ -17,7 +17,7 @@
     <div v-for="c in filteredComments" class="flex" :class="{'ml-12': c.depth}">
       <div v-if="altmode" class="avatar p-3 pt-0">
         <div class="rounded-full w-12 h-12 border-[#888] border-solid border-[0.5px]">
-          <img :src="`/asset/kansen/${c.icon}.png`">
+          <img :src="`/assets/kansen/${c.icon}.png`">
         </div>
       </div>
       <p class="whitespace-pre-line w-full" :class="{'py-2': altmode}">
