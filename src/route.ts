@@ -7,6 +7,7 @@ const router = createRouter({
     history: createWebHashHistory(),
     routes: [
         { path: '/', component: Body },
+        // { path: '/', redirect: {name: 'group', params: {group: 'polaris'}} },
         { path: '/about', component: About },
         // { path: '/input', component: Input },
         {

@@ -3,3 +3,4 @@
 @tailwind utilities;
 
 .card { @apply rounded-none; }
+img { @apply pointer-events-none; }

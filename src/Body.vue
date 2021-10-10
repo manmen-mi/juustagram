@@ -1,5 +1,5 @@
 <template>
-  <main class="pt-7 w-full lg:max-w-[975px] bg-white mx-auto my-0 grid grid-cols-2 lg:grid-cols-3 gap-8 text-sm">
+  <main v-if="posts" class="pt-7 w-full lg:max-w-[975px] bg-white mx-auto my-0 py-10 grid grid-cols-2 lg:grid-cols-3 gap-8 text-sm">
     <div class="form-control col-span-2 mx-[8%] lg:mx-0">
 
       <!-- article -->
@@ -19,7 +19,7 @@
       <div class="card-body p-5 gap-4 flex-row justify-start">
         <div class="avatar">
           <div class="rounded-full w-16 h-16 border-[#dddddd] border-solid border-[0.5px]">
-            <img src="/asset/Fusou_METAChibi.png">
+            <img src="/asset/kansen/commander.png">
           </div>
         </div>
         <div class="form-control my-auto">
@@ -32,10 +32,10 @@
 
   <!-- detail -->
   <div v-if="current" class="modal" :class="{'modal-open': pid}" @click.self="$router.push('/')">
-    <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none max-w-[512px] lg:max-w-[975px]">
-      <img class="mx-auto" width="512" height="512" :src="`/asset/juu/${current.pid}.png`">
+    <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none w-full max-w-[512px] lg:max-w-[975px]">
+      <img class="w-[512px] max-w-[512px] m-0" width="512" height="512" :src="`/asset/juu/${current.pid}.png`">
 
-      <div class="form-control gap-3 max-h-[512px]">
+      <div class="form-control gap-3 max-h-[512px] w-full">
         <post-head :kansen="current.kansen" :icon="current.icon"></post-head>
 
         <post-articles v-bind="current" :altmode="true"></post-articles>
@@ -48,6 +48,7 @@
 
 <script lang="ts" setup>
 import { ref, watchEffect } from "vue";
+import { useRouter } from "vue-router";
 
 import PostHead from "./component/PostHead.vue";
 import PostAction from "./component/PostAction.vue";
@@ -57,24 +58,27 @@ const prop = defineProps({
   pid: String,
 });
 
-const posts = ref([
-  {
-    pid: "1",
-    kansen: "Ootori_Shikikan",
-    icon: "akagi_mu",
-    article: "I'm surprised how good these things are. To eat. Starting from the head, working my way down, ahahaha…",
-    comments: [
-      {
-          "depth": 0,
-          "kansen": "Gascogne µ",
-          "icon": "akagi_mu",
-          "comment": "Assessment: Manjuu are inedible. Photograph depicts a stylized confectionery, likely a bun."
-      },
-    ],
-  }
-]);
-
+const posts = ref<any>(null);
 const current = ref<any>();
-watchEffect(async () => current.value = prop.pid && await import(`./post/${prop.pid}.json`));
+
+const group = ref('polaris');
+
+const {replace} = useRouter();
+watchEffect(async () => {
+  const localCache = localStorage.getItem(group.value);
+
+  if (localCache) {
+    posts.value = JSON.parse(localCache);
+  } else {
+    const data = await import(`./post/${group.value}.json`);
+    localStorage.setItem(group.value, JSON.stringify(data.default));
+    posts.value = data.default;
+  }
+
+  if (!prop.pid) return;
+  if (!Object.keys(posts.value).includes(prop.pid)) replace('/');
+
+  current.value = posts.value[+prop.pid];
+});
 
 </script>
