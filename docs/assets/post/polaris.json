@@ -97,7 +97,7 @@
         "icon": "Gascogne_µChibiIcon",
         "article": {
             "jp": "「自由行動」指示の意味、判断しかねる",
-            "ko": ""
+            "ko": "[자유행동]지시의 의미, 판단 곤란"
         },
         "comments": [
             {
@@ -106,7 +106,7 @@
                 "icon": "Cleveland_µChibiIcon",
                 "comment": {
                     "jp": "せっかくのオフの日だから、思いっきり遊んだほうがいいぜ！",
-                    "ko": ""
+                    "ko": "휴일이니까, 마음껏 노는게 어때?"
                 }
             },
             {
@@ -115,7 +115,7 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "「思いっきり遊ぶ」、参考になる情報の提示を求む",
-                    "ko": ""
+                    "ko": "[마음껏논다], 참고가 될 만한 정보의 제시를 요구"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "icon": "Cleveland_µChibiIcon",
                 "comment": {
                     "jp": "ええと、サーフィンとか日光浴とか？砂の城作りも結構面白いと思うぜ？",
-                    "ko": ""
+                    "ko": "으음, 서핑이나 일광욕은 어때? 모래성 쌓기도 꽤 재밌다구?"
                 }
             },
             {
@@ -133,34 +133,34 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "砂のお城作り……",
-                    "ko": ""
+                    "ko": "모래성 쌓기......"
                 }
             },
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Cleveland_µChibiIcon",
+                "icon": "Admiral_Hipper_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "なに呑気にやってんのよ…",
+                    "ko": "뭘 그렇게 태평하게 있는 거야..."
                 }
             },
             {
                 "depth": 1,
                 "kansen": "Cleveland☆Knight",
-                "icon": "",
+                "icon": "Cleveland_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "オフの日だからね！ヒッパーも羽を伸ばしたほうがいいよ！",
+                    "ko": "휴일이잖아! 히퍼도 편하게 쉬는게 어때?"
                 }
             },
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Cleveland_µChibiIcon",
+                "icon": "Admiral_Hipper_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "は！？誰がそんなことするっての！",
+                    "ko": "하!? 누가 그런 거 할거 같아?"
                 }
             },
             {
@@ -169,7 +169,7 @@
                 "icon": "commander",
                 "comment": {
                     "jp": "砂城作り…いいアイデア！",
-                    "ko": ""
+                    "ko": "모래성 쌓기라... 좋은 아이디어야!"
                 }
             },
             {
@@ -178,7 +178,7 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "任務了承。ガスコーニュ、「砂城作り」行動を開始――",
-                    "ko": ""
+                    "ko": "임무 승낙. 가스코뉴, [모래성 쌓기] 행동을 개시――"
                 }
             },
             {
@@ -187,7 +187,7 @@
                 "icon": "commander",
                 "comment": {
                     "jp": "楽しいと思うことをすればいい",
-                    "ko": ""
+                    "ko": "재밌다고 생각하는 걸 하면 돼"
                 }
             },
             {
@@ -196,7 +196,1519 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "「楽しい」感情の活性化条件について、指示を求む",
-                    "ko": ""
+                    "ko": "[재미] 감정의 활성화 조건에 대해, 지시를 요구"
+                }
+            }
+        ]
+    },
+    "3": {
+        "pid": "3",
+        "kansen": "GascogneT8",
+        "icon": "Gascogne_µChibiIcon",
+        "article": {
+            "jp": "「砂城作り」、行動完了",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "す、すごい……",
+                    "ko": "す、すごい……"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "該当行動に関するカンジョウ的評価、「面白い」と判断",
+                    "ko": "該当行動に関するカンジョウ的評価、「面白い」と判断"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "つまり楽しいってことね！",
+                    "ko": "つまり楽しいってことね！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ま、まあ…頑張ったんじゃない？",
+                    "ko": "ま、まあ…頑張ったんじゃない？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ヒッパーもやってましたが小屋すら作れていませんでしたよね",
+                    "ko": "ヒッパーもやってましたが小屋すら作れていませんでしたよね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "はあ！？だ、誰が同情してなんて言ったのよ！？",
+                    "ko": "はあ！？だ、誰が同情してなんて言ったのよ！？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "ヒッパーに対する支援行動、要請対応の可能を認む",
+                    "ko": "ヒッパーに対する支援行動、要請対応の可能を認む"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "だからいらないっての！",
+                    "ko": "だからいらないっての！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "すごい！",
+                    "ko": "すごい！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "ガスコーニュ、「楽しい」カンジョウの活性化を認む",
+                    "ko": "ガスコーニュ、「楽しい」カンジョウの活性化を認む"
+                }
+            }
+        ]
+    },
+    "4": {
+        "pid": "4",
+        "kansen": "Cleveland☆Knight",
+        "icon": "Cleveland_µChibiIcon",
+        "article": {
+            "jp": "#今日の昼ごはん# みんなの分まで買うのが大変だったよー",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.3",
+                "icon": "ColumbiaChibiIcon",
+                "comment": {
+                    "jp": "クリーブランド姉貴、サイコー！",
+                    "ko": "クリーブランド姉貴、サイコー！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.1",
+                "icon": "MontpelierChibiIcon",
+                "comment": {
+                    "jp": "姉貴と一緒に行きたかった…！",
+                    "ko": "姉貴と一緒に行きたかった…！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.2",
+                "icon": "DenverChibiIcon",
+                "comment": {
+                    "jp": "今度は私たちが買ってくるよ！",
+                    "ko": "今度は私たちが買ってくるよ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "あーあ、相変わらず仲睦まじいってことね",
+                    "ko": "あーあ、相変わらず仲睦まじいってことね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "健康的に…？",
+                    "ko": "健康的に…？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "たまにはいいの！へへ！",
+                    "ko": "たまにはいいの！へへ！"
+                }
+            }
+        ]
+    },
+    "5": {
+        "pid": "5",
+        "kansen": "ShiningS",
+        "icon": "Sheffield_µChibiIcon",
+        "article": {
+            "jp": "#夜間戦闘#「夜空に光る星をこの手で摘み取りキミに届ける」",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "え？",
+                    "ko": "え？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "天体を撃墜するためのエネルギーと兵装のシミュレーションを行う",
+                    "ko": "天体を撃墜するためのエネルギーと兵装のシミュレーションを行う"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "…え？",
+                    "ko": "…え？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "星をも落とす…ふふ、随分とロマンチックな歌詞ですわね",
+                    "ko": "星をも落とす…ふふ、随分とロマンチックな歌詞ですわね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "明石に星の装飾を発注しておくか",
+                    "ko": "明石に星の装飾を発注しておくか"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ご主人さまはロマンのかけらもございませんね",
+                    "ko": "ご主人さまはロマンのかけらもございませんね"
+                }
+            }
+        ]
+    },
+    "6": {
+        "pid": "6",
+        "kansen": "R-Guitarist",
+        "icon": "Admiral_Hipper_µChibiIcon",
+        "article": {
+            "jp": "#趣味#今日のコンディションは最高ね！",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "おお…かっこいいギター！",
+                    "ko": "おお…かっこいいギター！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "べ、別にあんたに褒められても嬉しくないけど？！",
+                    "ko": "べ、別にあんたに褒められても嬉しくないけど？！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "やっぱりそうですね。「金髪まな板のテンプレート」",
+                    "ko": "やっぱりそうですね。「金髪まな板のテンプレート」"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "誰がツンデレだって言ってんの！？",
+                    "ko": "誰がツンデレだって言ってんの！？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "ガスコーニュ、ヴィシアのイメージ色のカラーリングへ塗装を提案",
+                    "ko": "ガスコーニュ、ヴィシアのイメージ色のカラーリングへ塗装を提案"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "ふふふ、いいセンスですわ",
+                    "ko": "ふふふ、いいセンスですわ"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ヒッパー、ロックンロール！",
+                    "ko": "ヒッパー、ロックンロール！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "は？！",
+                    "ko": "は？！"
+                }
+            }
+        ]
+    },
+    "7": {
+        "pid": "7",
+        "kansen": "Ootori_Shikikan",
+        "icon": "Akagi_µChibiIcon",
+        "article": {
+            "jp": "夜の練習…やっぱり指揮官さまがいないといまいち盛り上がりませんわね",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ご主人さまがいなくても頑張ってください。みんな揃っての練習ですので",
+                    "ko": "ご主人さまがいなくても頑張ってください。みんな揃っての練習ですので"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "やるからには根性を見せなさいっての！",
+                    "ko": "やるからには根性を見せなさいっての！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "「適当にやれば？」と言いながら誰よりも本気だったのはどなたでしょうね",
+                    "ko": "「適当にやれば？」と言いながら誰よりも本気だったのはどなたでしょうね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "は！？だ、誰がそんな話したわけ！？聞き間違いだったの！",
+                    "ko": "は！？だ、誰がそんな話したわけ！？聞き間違いだったの！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "はあ…指揮官さまさえいれば……",
+                    "ko": "はあ…指揮官さまさえいれば……"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "レッスン。「面白い」と評価",
+                    "ko": "レッスン。「面白い」と評価"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "まあまあ…赤城も頑張ってたしね",
+                    "ko": "まあまあ…赤城も頑張ってたしね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "見学できなくてごめんね",
+                    "ko": "見学できなくてごめんね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官さま、赤城練習が終わったらすぐ会いに行きますわ！",
+                    "ko": "指揮官さま、赤城練習が終わったらすぐ会いに行きますわ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "練習頑張ってね",
+                    "ko": "練習頑張ってね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官さまの応援…！赤城、やる気がもりもり湧いてきましたわ！",
+                    "ko": "指揮官さまの応援…！赤城、やる気がもりもり湧いてきましたわ！"
+                }
+            }
+        ]
+    },
+    "8": {
+        "pid": "8",
+        "kansen": "Cleveland☆Knight",
+        "icon": "Cleveland_µChibiIcon",
+        "article": {
+            "jp": "#盆栽の育て方\n音楽を聞かせればもっと育つんじゃないかなー",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "は？そんなのありえないっての",
+                    "ko": "は？そんなのありえないっての"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "ログデータから該当ケースの実例ありと認む。科学的根拠は未発見と判断",
+                    "ko": "ログデータから該当ケースの実例ありと認む。科学的根拠は未発見と判断"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "あははは…",
+                    "ko": "あははは…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官さまに毎日赤城のことを聞かせれば、赤城のことだけ見てくれるようになるのかしら……",
+                    "ko": "指揮官さまに毎日赤城のことを聞かせれば、赤城のことだけ見てくれるようになるのかしら……"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "あははは…",
+                    "ko": "あははは…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "クリーブランドが手入れしているものでしたら、別に音楽を聞かせなくてもよく育つと思いますが",
+                    "ko": "クリーブランドが手入れしているものでしたら、別に音楽を聞かせなくてもよく育つと思いますが"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "そりゃそうだね！",
+                    "ko": "そりゃそうだね！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "もしかしたら効果あるかも",
+                    "ko": "もしかしたら効果あるかも"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "本当！？",
+                    "ko": "本当！？"
+                }
+            }
+        ]
+    },
+    "9": {
+        "pid": "9",
+        "kansen": "ShiningS",
+        "icon": "Sheffield_µChibiIcon",
+        "article": {
+            "jp": "#練習#もう少し練習しないといけませんね",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "もう十分上手だよ！",
+                    "ko": "もう十分上手だよ！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "…掃除も音楽も同じく、まだまだ理想には程遠いですが",
+                    "ko": "…掃除も音楽も同じく、まだまだ理想には程遠いですが"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ま、せいぜいみんなの足を引っ張らないようにするっての！",
+                    "ko": "ま、せいぜいみんなの足を引っ張らないようにするっての！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ヒッパーこそもっと練習したほうがいいと思いますが",
+                    "ko": "ヒッパーこそもっと練習したほうがいいと思いますが"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "だから一緒に練習やってるっての！",
+                    "ko": "だから一緒に練習やってるっての！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "シェフィールドの生演奏を聞きたい",
+                    "ko": "シェフィールドの生演奏を聞きたい"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ご主人さまがそう仰るのでしたら準備いたします。聞くと呪われる曲でも用意したほうがよろしいでしょうか。……冗談ですが",
+                    "ko": "ご主人さまがそう仰るのでしたら準備いたします。聞くと呪われる曲でも用意したほうがよろしいでしょうか。……冗談ですが"
+                }
+            }
+        ]
+    },
+    "10": {
+        "pid": "10",
+        "kansen": "R-Guitarist",
+        "icon": "Admiral_Hipper_µChibiIcon",
+        "article": {
+            "jp": "#休憩中#仕事のあとのコーヒーは染みるわね…",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "コーヒーより紅茶派です",
+                    "ko": "コーヒーより紅茶派です"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "目覚め効果もあるコーヒーのほうが上に決まってるじゃない",
+                    "ko": "目覚め効果もあるコーヒーのほうが上に決まってるじゃない"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "こんな泥水のような黒い液体を好むなんて理解できませんね",
+                    "ko": "こんな泥水のような黒い液体を好むなんて理解できませんね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "そっちこそ理解できないっての！",
+                    "ko": "そっちこそ理解できないっての！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "まあまあ好みとかそれぞれだから…酸素コーラの差し入れでもいる？",
+                    "ko": "まあまあ好みとかそれぞれだから…酸素コーラの差し入れでもいる？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ブラック派？",
+                    "ko": "ブラック派？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ま、まあね",
+                    "ko": "ま、まあね"
+                }
+            }
+        ]
+    },
+    "11": {
+        "pid": "11",
+        "kansen": "GascogneT8",
+        "icon": "Gascogne_µChibiIcon",
+        "article": {
+            "jp": "#レッスン\nガスコーニュ、「カンジョウ」を込めた歌唱行動遂行の可能性を検証中",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "ふふふ、「愛」さえあれば、できないことはありませんわ",
+                    "ko": "ふふふ、「愛」さえあれば、できないことはありませんわ"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "「愛」…ガスコーニュ、同カンジョウの理解について必要情報の不足を認む",
+                    "ko": "「愛」…ガスコーニュ、同カンジョウの理解について必要情報の不足を認む"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "とりあえず自分がいいと思うように頑張ればいいと思うぜ。悩むのはなしだ！",
+                    "ko": "とりあえず自分がいいと思うように頑張ればいいと思うぜ。悩むのはなしだ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "クリーブランドの言う通りね",
+                    "ko": "クリーブランドの言う通りね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ガスコーニュ、上手く歌ってるよ",
+                    "ko": "ガスコーニュ、上手く歌ってるよ"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "歌唱行動の技術への評価と「カンジョウ」への評価の同一視、分析の混乱を引き起こす可能性を認む…",
+                    "ko": "歌唱行動の技術への評価と「カンジョウ」への評価の同一視、分析の混乱を引き起こす可能性を認む…"
+                }
+            }
+        ]
+    },
+    "12": {
+        "pid": "12",
+        "kansen": "Ootori_Shikikan",
+        "icon": "Akagi_µChibiIcon",
+        "article": {
+            "jp": "大吉を引いたわ～今日はどんないいことが起きるのかしら…もしかして指揮官様と…ふふふ",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Ran_mew",
+                "icon": "KagaChibiIcon",
+                "comment": {
+                    "jp": "姉さま、こういう書き込みは自重したほうが……",
+                    "ko": "姉さま、こういう書き込みは自重したほうが……"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "加賀、指揮官さまへの愛を隠す必要などないわよ？",
+                    "ko": "加賀、指揮官さまへの愛を隠す必要などないわよ？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ran_mew",
+                "icon": "KagaChibiIcon",
+                "comment": {
+                    "jp": "ね、姉さま、ハンドルネーム…",
+                    "ko": "ね、姉さま、ハンドルネーム…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "今日も赤城は平常運転だな…",
+                    "ko": "今日も赤城は平常運転だな…"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ran_mew",
+                "icon": "KagaChibiIcon",
+                "comment": {
+                    "jp": "だから、ハンドルネーム……",
+                    "ko": "だから、ハンドルネーム……"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "重桜の「おみくじ」…今度引いてみるか…",
+                    "ko": "重桜の「おみくじ」…今度引いてみるか…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "面白そう",
+                    "ko": "面白そう"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官さまも引いてみてはどうですか？そして赤城と縁結び…ふふふふ",
+                    "ko": "指揮官さまも引いてみてはどうですか？そして赤城と縁結び…ふふふふ"
+                }
+            }
+        ]
+    },
+    "13": {
+        "pid": "13",
+        "kansen": "R-Guitarist",
+        "icon": "Admiral_Hipper_µChibiIcon",
+        "article": {
+            "jp": "#フェス#鉄血といえばビールとソーセージね！",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "P.Eugen",
+                "icon": "Prinz_EugenChibiIcon",
+                "comment": {
+                    "jp": "フェスではしゃいでるヒッパーちゃん、かわいい～",
+                    "ko": "フェスではしゃいでるヒッパーちゃん、かわいい～"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "は？べ、別にはしゃいでるわけじゃないけど？",
+                    "ko": "は？べ、別にはしゃいでるわけじゃないけど？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "P.Eugen",
+                "icon": "Prinz_EugenChibiIcon",
+                "comment": {
+                    "jp": "はい入りました～「金髪まな板のテンプレート」～",
+                    "ko": "はい入りました～「金髪まな板のテンプレート」～"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "GRAFSPEE",
+                "icon": "Admiral_Graf_SpeeChibiIcon",
+                "comment": {
+                    "jp": "こういう場所にはやっぱり慣れないけど…鉄血のみんなと一緒だと気が少し楽になるね",
+                    "ko": "こういう場所にはやっぱり慣れないけど…鉄血のみんなと一緒だと気が少し楽になるね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "SPEE_FIGHT",
+                "icon": "DeutschlandChibiIcon",
+                "comment": {
+                    "jp": "たまにはこういうイベントもいいわね…シュペーも楽しんでるし、いい事づくしだわ！あははははは！",
+                    "ko": "たまにはこういうイベントもいいわね…シュペーも楽しんでるし、いい事づくしだわ！あははははは！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "Prost！",
+                    "ko": "Prost！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
+                    "ko": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ソーセージ、美味しそう",
+                    "ko": "ソーセージ、美味しそう"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
+                    "ko": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？"
+                }
+            }
+        ]
+    },
+    "14": {
+        "pid": "14",
+        "kansen": "Cleveland☆Knight",
+        "icon": "Cleveland_µChibiIcon",
+        "article": {
+            "jp": "#ガーデニング#今日もいい感じ！へへ！",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "盆栽以外にもガーデニングを嗜んでおられますか",
+                    "ko": "盆栽以外にもガーデニングを嗜んでおられますか"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "まあね、ついでにって感じで！",
+                    "ko": "まあね、ついでにって感じで！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "綻びる…生命",
+                    "ko": "綻びる…生命"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "植物を飾るのなら、もっと美しいもの…例えばヒガンバナ…ふふふ",
+                    "ko": "植物を飾るのなら、もっと美しいもの…例えばヒガンバナ…ふふふ"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "そんな飾り方どこにあるってんのよ…初心者ならガーベラかコスモス、ビオラとかじゃない？",
+                    "ko": "そんな飾り方どこにあるってんのよ…初心者ならガーベラかコスモス、ビオラとかじゃない？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "お！ヒッパーもこういうの、詳しいの？",
+                    "ko": "お！ヒッパーもこういうの、詳しいの？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "別に？普通よ！",
+                    "ko": "別に？普通よ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ガーデニングマスター…！",
+                    "ko": "ガーデニングマスター…！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "全然初心者だってば！",
+                    "ko": "全然初心者だってば！"
+                }
+            }
+        ]
+    },
+    "15": {
+        "pid": "15",
+        "kansen": "ShiningS",
+        "icon": "Sheffield_µChibiIcon",
+        "article": {
+            "jp": "#分解実験#マイクの構造、面白いですね。早速分解してみました",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "はい！ストップ！",
+                    "ko": "はい！ストップ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "しぇ、シェフィールドらしいね…",
+                    "ko": "しぇ、シェフィールドらしいね…"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "ものを壊す気持ちよさ、わかりますわ～",
+                    "ko": "ものを壊す気持ちよさ、わかりますわ～"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ストオオオップ！",
+                    "ko": "ストオオオップ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "分解の仕方について詳しく",
+                    "ko": "分解の仕方について詳しく"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ご主人さまもご興味が？",
+                    "ko": "ご主人さまもご興味が？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ストオオオップ！",
+                    "ko": "ストオオオップ！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ちっ",
+                    "ko": "ちっ"
+                }
+            }
+        ]
+    },
+    "16": {
+        "pid": "16",
+        "kansen": "R-Guitarist",
+        "icon": "Admiral_Hipper_µChibiIcon",
+        "article": {
+            "jp": "#ぬいぐるみ#かわいい！",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "こういうのがお好きなんですね",
+                    "ko": "こういうのがお好きなんですね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "ヒッパーってカワイイアイテムが好きなんだ……",
+                    "ko": "ヒッパーってカワイイアイテムが好きなんだ……"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "そ、そんなことないわよ！？今のは乗っ取られて間違えて送信されただけだっての！",
+                    "ko": "そ、そんなことないわよ！？今のは乗っ取られて間違えて送信されただけだっての！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "例のテンプレート、入りましたね",
+                    "ko": "例のテンプレート、入りましたね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "オイゲン！！！！",
+                    "ko": "オイゲン！！！！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "かわいい！",
+                    "ko": "かわいい！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "！",
+                    "ko": "！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "今度自分用にも……",
+                    "ko": "今度自分用にも……"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "ええ！？",
+                    "ko": "ええ！？"
+                }
+            }
+        ]
+    },
+    "17": {
+        "pid": "17",
+        "kansen": "Cleveland☆Knight",
+        "icon": "Cleveland_µChibiIcon",
+        "article": {
+            "jp": "#今日のリハーサル#ステージで汗をかくのも気持ちいいね！",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.1",
+                "icon": "MontpelierChibiIcon",
+                "comment": {
+                    "jp": "姉貴…最高でした！",
+                    "ko": "姉貴…最高でした！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "は、恥ずかしいからそういうのやめて？",
+                    "ko": "は、恥ずかしいからそういうのやめて？"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.2",
+                "icon": "DenverChibiIcon",
+                "comment": {
+                    "jp": "クリーブランド姉貴はいつでも最高だよ！",
+                    "ko": "クリーブランド姉貴はいつでも最高だよ！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "だから恥ずかしいから言わなくていいってば！",
+                    "ko": "だから恥ずかしいから言わなくていいってば！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleve-FC.3",
+                "icon": "ColumbiaChibiIcon",
+                "comment": {
+                    "jp": "じゃあ私も！クリーブランド、キュート❤️",
+                    "ko": "じゃあ私も！クリーブランド、キュート❤️"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "もうやめてぇぇぇぇ＞＜",
+                    "ko": "もうやめてぇぇぇぇ＞＜"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "仲いいわねあんたたち…",
+                    "ko": "仲いいわねあんたたち…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "クリーブランド、最高ォ！",
+                    "ko": "クリーブランド、最高ォ！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "恥ずかしいからこの話題禁止！",
+                    "ko": "恥ずかしいからこの話題禁止！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "わかる。これが青春だ…！",
+                    "ko": "わかる。これが青春だ…！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "へへ、やっぱり指揮官は分かってくれるよな！",
+                    "ko": "へへ、やっぱり指揮官は分かってくれるよな！"
+                }
+            }
+        ]
+    },
+    "18": {
+        "pid": "18",
+        "kansen": "GascogneT8",
+        "icon": "Gascogne_µChibiIcon",
+        "article": {
+            "jp": "必要性について、検証しかねる",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "「アイドル」云々はさておき、女の子として自分を美しくするのは当然ではなくて？",
+                    "ko": "「アイドル」云々はさておき、女の子として自分を美しくするのは当然ではなくて？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "今のって結構的を射た話ね",
+                    "ko": "今のって結構的を射た話ね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "得意ではありませんが、お手伝いが必要でしたらいつでも仰ってください",
+                    "ko": "得意ではありませんが、お手伝いが必要でしたらいつでも仰ってください"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "私は…さ、さすがにこういうのは無理かな…今度ヘレナにちょっと聞いてくるよ…",
+                    "ko": "私は…さ、さすがにこういうのは無理かな…今度ヘレナにちょっと聞いてくるよ…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "そのままでもいいけどね",
+                    "ko": "そのままでもいいけどね"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "ガスコーニュのケースでの、「そのまま」の意味の説明を求む",
+                    "ko": "ガスコーニュのケースでの、「そのまま」の意味の説明を求む"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "どんなガスコーニュもガスコーニュだ",
+                    "ko": "どんなガスコーニュもガスコーニュだ"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "…感情モジュールにおける「コンラン」を認む",
+                    "ko": "…感情モジュールにおける「コンラン」を認む"
+                }
+            }
+        ]
+    },
+    "19": {
+        "pid": "19",
+        "kansen": "Ootori_Shikikan",
+        "icon": "Akagi_µChibiIcon",
+        "article": {
+            "jp": "赤城の愛情を込めました❤️",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "KADEKURU",
+                "icon": "ShoukakuChibiIcon",
+                "comment": {
+                    "jp": "あら、赤城先輩はこんな乙女チックなお菓子も作るのですか？あっ、今度こそ塩と砂糖を間違えずに作れたんですよね？",
+                    "ko": "あら、赤城先輩はこんな乙女チックなお菓子も作るのですか？あっ、今度こそ塩と砂糖を間違えずに作れたんですよね？"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Zuikaku",
+                "icon": "ZuikakuChibiIcon",
+                "comment": {
+                    "jp": "翔鶴姉、先輩を煽っちゃダメだよ…",
+                    "ko": "翔鶴姉、先輩を煽っちゃダメだよ…"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "後輩の戯言など気にしませんわ～指揮官さまに変な話を吹き込む「害虫」なら別ですけど…ふふふ",
+                    "ko": "後輩の戯言など気にしませんわ～指揮官さまに変な話を吹き込む「害虫」なら別ですけど…ふふふ"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "これ、赤城が作ったのか！？すごいな…",
+                    "ko": "これ、赤城が作ったのか！？すごいな…"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "ふふふ、指揮官さまへの愛は無敵ですわ",
+                    "ko": "ふふふ、指揮官さまへの愛は無敵ですわ"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "私も今度お菓子作りの勉強をしよっかな…女の子としての女子力というか…",
+                    "ko": "私も今度お菓子作りの勉強をしよっかな…女の子としての女子力というか…"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "美味しそう",
+                    "ko": "美味しそう"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官さま、今お届けに参りますわ～",
+                    "ko": "指揮官さま、今お届けに参りますわ～"
+                }
+            }
+        ]
+    },
+    "20": {
+        "pid": "20",
+        "kansen": "ShiningS",
+        "icon": "Sheffield_µChibiIcon",
+        "article": {
+            "jp": "#舞台裏#お疲れさまでした。皆様のおかげさまでステージで輝けました",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "おう！次も一緒に頑張ろうぜ！",
+                    "ko": "おう！次も一緒に頑張ろうぜ！"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "舞台裏で頑張ってる子たちにも感謝しないとね",
+                    "ko": "舞台裏で頑張ってる子たちにも感謝しないとね"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "Belfast_inService",
+                "icon": "BelfastChibiIcon",
+                "comment": {
+                    "jp": "メイド長として陰ながら応援させていただいております。引き続きよろしくお願いいたします",
+                    "ko": "メイド長として陰ながら応援させていただいております。引き続きよろしくお願いいたします"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ベルファスト…努力します",
+                    "ko": "ベルファスト…努力します"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "シェフィールド、ファイト！",
+                    "ko": "シェフィールド、ファイト！"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "ご主人さまに言われなくても",
+                    "ko": "ご主人さまに言われなくても"
                 }
             }
         ]
