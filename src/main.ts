@@ -10,5 +10,3 @@ const app = createApp(App);
 app.use(router);
 
 app.mount('#app');
-
-Axios.defaults.baseURL = 'https://az-lane.deno.dev/';

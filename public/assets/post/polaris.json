@@ -97,7 +97,7 @@
         "icon": "Gascogne_µChibiIcon",
         "article": {
             "jp": "「自由行動」指示の意味、判断しかねる",
-            "ko": ""
+            "ko": "[자유행동]지시의 의미, 판단 곤란"
         },
         "comments": [
             {
@@ -106,7 +106,7 @@
                 "icon": "Cleveland_µChibiIcon",
                 "comment": {
                     "jp": "せっかくのオフの日だから、思いっきり遊んだほうがいいぜ！",
-                    "ko": ""
+                    "ko": "휴일이니까, 마음껏 노는게 어때?"
                 }
             },
             {
@@ -115,7 +115,7 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "「思いっきり遊ぶ」、参考になる情報の提示を求む",
-                    "ko": ""
+                    "ko": "[마음껏논다], 참고가 될 만한 정보의 제시를 요구"
                 }
             },
             {
@@ -124,7 +124,7 @@
                 "icon": "Cleveland_µChibiIcon",
                 "comment": {
                     "jp": "ええと、サーフィンとか日光浴とか？砂の城作りも結構面白いと思うぜ？",
-                    "ko": ""
+                    "ko": "으음, 서핑이나 일광욕은 어때? 모래성 쌓기도 꽤 재밌다구?"
                 }
             },
             {
@@ -133,34 +133,34 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "砂のお城作り……",
-                    "ko": ""
+                    "ko": "모래성 쌓기......"
                 }
             },
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Cleveland_µChibiIcon",
+                "icon": "Admiral_Hipper_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "なに呑気にやってんのよ…",
+                    "ko": "뭘 그렇게 태평하게 있는 거야..."
                 }
             },
             {
                 "depth": 1,
                 "kansen": "Cleveland☆Knight",
-                "icon": "",
+                "icon": "Cleveland_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "オフの日だからね！ヒッパーも羽を伸ばしたほうがいいよ！",
+                    "ko": "휴일이잖아! 히퍼도 편하게 쉬는게 어때?"
                 }
             },
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Cleveland_µChibiIcon",
+                "icon": "Admiral_Hipper_µChibiIcon",
                 "comment": {
-                    "jp": "砂のお城作り……",
-                    "ko": ""
+                    "jp": "は！？誰がそんなことするっての！",
+                    "ko": "하!? 누가 그런 거 할거 같아?"
                 }
             },
             {
@@ -169,7 +169,7 @@
                 "icon": "commander",
                 "comment": {
                     "jp": "砂城作り…いいアイデア！",
-                    "ko": ""
+                    "ko": "모래성 쌓기라... 좋은 아이디어야!"
                 }
             },
             {
@@ -178,7 +178,7 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "任務了承。ガスコーニュ、「砂城作り」行動を開始――",
-                    "ko": ""
+                    "ko": "임무 승낙. 가스코뉴, [모래성 쌓기] 행동을 개시――"
                 }
             },
             {
@@ -187,7 +187,7 @@
                 "icon": "commander",
                 "comment": {
                     "jp": "楽しいと思うことをすればいい",
-                    "ko": ""
+                    "ko": "재밌다고 생각하는 걸 하면 돼"
                 }
             },
             {
@@ -196,7 +196,7 @@
                 "icon": "Gascogne_µChibiIcon",
                 "comment": {
                     "jp": "「楽しい」感情の活性化条件について、指示を求む",
-                    "ko": ""
+                    "ko": "[재미] 감정의 활성화 조건에 대해, 지시를 요구"
                 }
             }
         ]

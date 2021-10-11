@@ -1,6 +1,6 @@
 <template>
   <main v-if="posts" class="pt-7 w-full lg:max-w-[975px] bg-white mx-auto my-0 py-10 grid grid-cols-2 lg:grid-cols-3 gap-8 text-sm">
-    <div class="form-control col-span-2 mx-[8%] lg:mx-0">
+    <div class="form-control gap-8 col-span-2 mx-[8%] lg:mx-0">
 
       <!-- article -->
       <article v-for="post in posts" class="form-control py-1 gap-2 w-full border-[#dddddd] border-solid border">
@@ -74,14 +74,14 @@ watchEffect(async () => {
     posts.value = JSON.parse(localCache);
   } else {
     const {data} = await axios.get(`/assets/post/${group.value}.json`);
-    localStorage.setItem(group.value, JSON.stringify(data.default));
-    posts.value = data.default;
+    localStorage.setItem(group.value, JSON.stringify(data));
+    posts.value = data;
   }
-
-  if (!prop.pid) return;
-  if (!Object.keys(posts.value).includes(prop.pid)) replace('/');
-
-  current.value = posts.value[+prop.pid];
 });
+
+watchEffect(() => {
+  if (!prop.pid) return;
+  current.value = posts.value[+prop.pid];
+})
 
 </script>
