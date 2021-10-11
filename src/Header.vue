@@ -2,7 +2,7 @@
   <header class="w-full h-[54px] sticky top-0 left-0 flex justify-center bg-white border-[#dddddd] border-solid border-b z-50">
     <div class="w-full max-w-[975px] flex items-center justify-center px-5 text-lg">
       <div class="min-w-[40px] flex-1"><router-link to="/">Juustagram</router-link></div>
-      <input class="input w-[215px] min-w[125px] input-bordered input-sm rounded-none flex-initial" placeholder="search">
+      <input type="text" class="input w-[215px] min-w[125px] input-bordered input-sm rounded-none flex-initial" placeholder="search">
       <div class="flex-1 flex gap-4 justify-end items-center">
         <label class="form-control my-auto ml-auto mr-0">
           <span class="label-text text-xs">JP</span>

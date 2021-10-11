@@ -1,0 +1,204 @@
+{
+    "1" : {
+        "pid": "1",
+        "kansen": "Ootori_Shikikan",
+        "icon": "Akagi_µChibiIcon",
+        "article": {
+            "jp": "饅頭、意外と美味しいわね…頭からパクっと…ふふふふふ",
+            "ko": "만두, 의외로 맛있네...머리부터 먹으면...후후후후후"
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "えっ、食べられるの！？",
+                    "ko": "어, 먹는거야!?"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "饅頭は食用不可と診断。写真にあるのは摂食可能なお菓子「まんじゅう」と認む",
+                    "ko": "만두는 식용불가로 판단. 사진에 있는 것은 섭취가능한 과자 [만두]로 판단"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "ShiningS",
+                "icon": "Sheffield_µChibiIcon",
+                "comment": {
+                    "jp": "作ってみますか。指揮官まんじゅう",
+                    "ko": "만들어 보시겠습니까? 지휘관 만두"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "ふふふ…それならぜひこの私に参加させて頂戴。指揮官さまのおまんじゅうは全部私が作りますわ～",
+                    "ko": "후후후...그런거라면 꼭 나도 참가시켜주면 좋겠어. 지휘관님 만두는 전부 내가 만들테니~"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "やめてっての！",
+                    "ko": "그만두라고!"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "美味しそう",
+                    "ko": "맛있겠다"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Akagi_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官様も一個どう？はい、あーん",
+                    "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "ヤメロー",
+                    "ko": "안돼"
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Ootori_Shikikan",
+                "icon": "Admiral_Hipper_µChibiIcon",
+                "comment": {
+                    "jp": "指揮官様も一個どう？はい、あーん",
+                    "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
+                }
+            }
+        ]
+    },
+    "2" : {
+        "pid": "2",
+        "kansen": "GascogneT8",
+        "icon": "Gascogne_µChibiIcon",
+        "article": {
+            "jp": "「自由行動」指示の意味、判断しかねる",
+            "ko": ""
+        },
+        "comments": [
+            {
+                "depth": 0,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "せっかくのオフの日だから、思いっきり遊んだほうがいいぜ！",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "「思いっきり遊ぶ」、参考になる情報の提示を求む",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "ええと、サーフィンとか日光浴とか？砂の城作りも結構面白いと思うぜ？",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "砂のお城作り……",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "R-Guitarist",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "砂のお城作り……",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "Cleveland☆Knight",
+                "icon": "",
+                "comment": {
+                    "jp": "砂のお城作り……",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "R-Guitarist",
+                "icon": "Cleveland_µChibiIcon",
+                "comment": {
+                    "jp": "砂のお城作り……",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "砂城作り…いいアイデア！",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "任務了承。ガスコーニュ、「砂城作り」行動を開始――",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 0,
+                "kansen": "commander__",
+                "icon": "commander",
+                "comment": {
+                    "jp": "楽しいと思うことをすればいい",
+                    "ko": ""
+                }
+            },
+            {
+                "depth": 1,
+                "kansen": "GascogneT8",
+                "icon": "Gascogne_µChibiIcon",
+                "comment": {
+                    "jp": "「楽しい」感情の活性化条件について、指示を求む",
+                    "ko": ""
+                }
+            }
+        ]
+    }
+}

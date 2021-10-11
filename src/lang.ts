@@ -14,7 +14,6 @@ watchEffect(() => {
     localStorage.setItem('lang', lang.value);
 })
 
-
 const commonStr: strDict = {
     fav: {
         jp: "いいね！",

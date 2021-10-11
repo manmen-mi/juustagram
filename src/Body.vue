@@ -48,20 +48,23 @@
 
 <script lang="ts" setup>
 import { ref, watchEffect } from "vue";
-import { useRouter } from "vue-router";
+import { useRouter, useRoute } from "vue-router";
 
 import PostHead from "./component/PostHead.vue";
 import PostAction from "./component/PostAction.vue";
 import PostArticles from "./component/PostArticles.vue";
+import axios from "axios";
 
 const prop = defineProps({
   pid: String,
 });
 
+const {query} = useRoute();
 const posts = ref<any>(null);
 const current = ref<any>();
 
-const group = ref('polaris');
+const allowedGroup = ['polaris'];
+const group = ref<string>(allowedGroup.includes(String(query.group)) ? String(query.group) : 'polaris');
 
 const {replace} = useRouter();
 watchEffect(async () => {
@@ -70,7 +73,7 @@ watchEffect(async () => {
   if (localCache) {
     posts.value = JSON.parse(localCache);
   } else {
-    const data = await import(`./post/${group.value}.json`);
+    const {data} = await axios.get(`/assets/post/${group.value}.json`);
     localStorage.setItem(group.value, JSON.stringify(data.default));
     posts.value = data.default;
   }
