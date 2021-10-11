@@ -3,10 +3,10 @@
     <div class="form-control gap-8 col-span-2 mx-[8%] lg:mx-0">
 
       <!-- article -->
-      <article v-for="post in posts" class="form-control py-1 gap-2 w-full border-[#dddddd] border-solid border">
+      <article v-for="post in posts" class="form-control pt-1 pb-3 gap-2 w-full border-[#dddddd] border-solid border">
         <post-head :kansen="post.kansen" :icon="post.icon" ></post-head>
 
-        <img class="mx-auto" width="512" height="512" :src="`/assets/juu/${post.pid}.png`">
+        <img loading="lazy" class="mx-auto" width="512" height="512" :src="`/assets/juu/${post.pid}.png`">
 
         <post-action :pid="post.pid"></post-action>
 
