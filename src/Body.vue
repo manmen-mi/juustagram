@@ -32,10 +32,12 @@
 
   <!-- detail -->
   <div v-if="current" class="modal" :class="{'modal-open': pid}" @click.self="$router.push('/')">
-    <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none w-full max-w-[512px] lg:max-w-[975px]">
-      <img class="w-[512px] max-w-[512px] m-0" width="512" height="512" :src="`/assets/juu/${current.pid}.png`">
+    <div class="modal-box p-0 flex flex-col lg:flex-row rounded-none w-full  max-w-[512px] lg:max-w-[975px]">
+      <button class="absolute lg:hidden right-0 top-0" @click="$router.push('/')"><span class="material-icons text-4xl">close</span></button>
 
-      <div class="form-control gap-3 max-h-[512px] w-full">
+      <img class="w-[512px] max-w-[384px] lg:max-w-[512px] mx-auto my-0" width="512" height="512" :src="`/assets/juu/${current.pid}.png`">
+
+      <div class="form-control gap-3 max-h-[calc(100vh-384px)] lg:max-h-[512px] w-full">
         <post-head :kansen="current.kansen" :icon="current.icon"></post-head>
 
         <post-articles v-bind="current" :altmode="true"></post-articles>
@@ -48,7 +50,7 @@
 
 <script lang="ts" setup>
 import { ref, watchEffect } from "vue";
-import { useRouter, useRoute } from "vue-router";
+import { useRoute } from "vue-router";
 
 import PostHead from "./component/PostHead.vue";
 import PostAction from "./component/PostAction.vue";
@@ -66,7 +68,12 @@ const current = ref<any>();
 const allowedGroup = ['polaris'];
 const group = ref<string>(allowedGroup.includes(String(query.group)) ? String(query.group) : 'polaris');
 
-const {replace} = useRouter();
+const newVersion = Number(import.meta.env.VITE_ASSET_VERSION);
+if (+(localStorage.getItem('asset_version') ?? 0) < newVersion) {
+  allowedGroup.forEach(v => localStorage.removeItem(v));
+  localStorage.setItem('asset_version', ''+newVersion);
+}
+
 watchEffect(async () => {
   const localCache = localStorage.getItem(group.value);
 

@@ -19,6 +19,14 @@ const commonStr: strDict = {
         jp: "いいね！",
         ko: "좋아요"
     },
+    contact: {
+        jp: "Contact",
+        ko: "만든놈"
+    },
+    refer: {
+        jp: "Referenced",
+        ko: "참고"
+    },
 }
 
 export default function useLangStore() {
