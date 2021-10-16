@@ -2,7 +2,7 @@
     "1" : {
         "pid": "1",
         "kansen": "Ootori_Shikikan",
-        "icon": "Akagi_µChibiIcon",
+        "icon": "akagi_mu",
         "article": {
             "jp": "饅頭、意外と美味しいわね…頭からパクっと…ふふふふふ",
             "ko": "만두, 의외로 맛있네...머리부터 먹으면...후후후후후"
@@ -11,7 +11,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "えっ、食べられるの！？",
                     "ko": "어, 먹는거야!?"
@@ -38,7 +38,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ…それならぜひこの私に参加させて頂戴。指揮官さまのおまんじゅうは全部私が作りますわ～",
                     "ko": "후후후...그런거라면 꼭 나도 참가시켜주면 좋겠어. 지휘관님 만두는 전부 내가 만들테니~"
@@ -47,7 +47,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "やめてっての！",
                     "ko": "그만두라고!"
@@ -65,7 +65,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官様も一個どう？はい、あーん",
                     "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
@@ -83,7 +83,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官様も一個どう？はい、あーん",
                     "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
@@ -139,7 +139,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "なに呑気にやってんのよ…",
                     "ko": "뭘 그렇게 태평하게 있는 거야..."
@@ -157,7 +157,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "は！？誰がそんなことするっての！",
                     "ko": "하!? 누가 그런 거 할거 같아?"
@@ -240,7 +240,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ま、まあ…頑張ったんじゃない？",
                     "ko": "뭐, 뭐어... 열심히 만든거 같은데?"
@@ -258,7 +258,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "はあ！？だ、誰が同情してなんて言ったのよ！？",
                     "ko": "하아!? 누가 동정해달라고 했어!?"
@@ -276,7 +276,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "だからいらないっての！",
                     "ko": "필요없다니까 그러네!"
@@ -341,7 +341,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "あーあ、相変わらず仲睦まじいってことね",
                     "ko": "아~, 여전히 사이좋네"
@@ -379,7 +379,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "え？",
                     "ko": "뭐?"
@@ -397,7 +397,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "…え？",
                     "ko": "…뭐?"
@@ -406,7 +406,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "星をも落とす…ふふ、随分とロマンチックな歌詞ですわね",
                     "ko": "별을 떨어뜨리다... 후후, 꽤나 로맨틱한 가사네요"
@@ -435,7 +435,7 @@
     "6": {
         "pid": "6",
         "kansen": "R-Guitarist",
-        "icon": "Admiral_Hipper_µChibiIcon",
+        "icon": "hipper_mu",
         "article": {
             "jp": "#趣味 今日のコンディションは最高ね！",
             "ko": "#취미 오늘 컨디션은 최고야!"
@@ -453,7 +453,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "べ、別にあんたに褒められても嬉しくないけど？！",
                     "ko": "벼, 별로 너한테 칭찬받은걸로는 기쁘지도 않거든?!"
@@ -471,7 +471,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "誰がツンデレだって言ってんの！？",
                     "ko": "누가 츤데레라는 거야!?"
@@ -489,7 +489,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、いいセンスですわ",
                     "ko": "후후후, 좋은 센스에요"
@@ -507,7 +507,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "は？！",
                     "ko": "하?!"
@@ -518,7 +518,7 @@
     "7": {
         "pid": "7",
         "kansen": "Ootori_Shikikan",
-        "icon": "Akagi_µChibiIcon",
+        "icon": "akagi_mu",
         "article": {
             "jp": "夜の練習…やっぱり指揮官さまがいないといまいち盛り上がりませんわね",
             "ko": "야간 연습... 역시 지휘관님이 안 계시니 별로 내키지가 않네요"
@@ -536,7 +536,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "やるからには根性を見せなさいっての！",
                     "ko": "이왕 할거면 근성을 보여주라고!"
@@ -554,7 +554,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "は！？だ、誰がそんな話したわけ！？聞き間違いだったの！",
                     "ko": "하!? 누, 누가 그런 얘기를 했다는 거야!? 잘못 들은 거겠지!"
@@ -563,7 +563,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "はあ…指揮官さまさえいれば……",
                     "ko": "하아...지휘관님만 계셨더라도..."
@@ -599,7 +599,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さま、赤城練習が終わったらすぐ会いに行きますわ！",
                     "ko": "지휘관님, 연습이 끝나면 아카기가 바로 찾아갈게요!"
@@ -617,7 +617,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまの応援…！赤城、やる気がもりもり湧いてきましたわ！",
                     "ko": "지휘관님의 응원...! 아카기, 의욕이 샘솟기 시작했어요!"
@@ -637,7 +637,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "は？そんなのありえないっての",
                     "ko": "하? 그럴리가 없잖아"
@@ -664,7 +664,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまに毎日赤城のことを聞かせれば、赤城のことだけ見てくれるようになるのかしら……",
                     "ko": "지휘관님께 매일 아카기 이야기를 들려드리면, 아카기만을 바라봐주지 않을까요......"
@@ -747,7 +747,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ま、せいぜいみんなの足を引っ張らないようにするっての！",
                     "ko": "뭐, 다른 멤버들 발목을 잡지 않도록 노력해보라고!"
@@ -765,7 +765,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "だから一緒に練習やってるっての！",
                     "ko": "그래서 지금 같이 연습하고 있잖아!"
@@ -794,7 +794,7 @@
     "10": {
         "pid": "10",
         "kansen": "R-Guitarist",
-        "icon": "Admiral_Hipper_µChibiIcon",
+        "icon": "hipper_mu",
         "article": {
             "jp": "#休憩中 仕事のあとのコーヒーは染みるわね…",
             "ko": "#휴식중 일 끝나고 마시는 커피는 몸에 스며드네..."
@@ -812,7 +812,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "目覚め効果もあるコーヒーのほうが上に決まってるじゃない",
                     "ko": "잠깨는 효과도 있는 커피가 당연히 더 뛰어나지"
@@ -821,7 +821,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "こんな泥水のような黒い液体を好むなんて理解できませんね",
                     "ko": "이런 흙탕물 같은 검은 액체를 좋아하신다니 이해할 수 없네요"
@@ -830,7 +830,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "そっちこそ理解できないっての！",
                     "ko": "그쪽이야말로 이해할 수 없거든!"
@@ -857,7 +857,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ま、まあね",
                     "ko": "뭐, 뭐 그렇지"
@@ -877,7 +877,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、「愛」さえあれば、できないことはありませんわ",
                     "ko": "후후후, [사랑]만 있다면 뭐든지 할 수 있답니다"
@@ -904,7 +904,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "クリーブランドの言う通りね",
                     "ko": "클리블랜드 말이 맞아"
@@ -933,7 +933,7 @@
     "12": {
         "pid": "12",
         "kansen": "Ootori_Shikikan",
-        "icon": "Akagi_µChibiIcon",
+        "icon": "akagi_mu",
         "article": {
             "jp": "大吉を引いたわ～今日はどんないいことが起きるのかしら…もしかして指揮官様と…ふふふ",
             "ko": "대길을 뽑았어요~ 오늘은 무슨 좋은 일이 일어날까요... 어쩌면 지휘관님과... 후후후"
@@ -951,7 +951,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "加賀、指揮官さまへの愛を隠す必要などないわよ？",
                     "ko": "카가, 지휘관님을 향한 애정을 숨길 필요는 없답니다?"
@@ -987,7 +987,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "重桜の「おみくじ」…今度引いてみるか…",
                     "ko": "중앵의[제비뽑기]... 다음에 한번 뽑아볼까..."
@@ -1005,7 +1005,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまも引いてみてはどうですか？そして赤城と縁結び…ふふふふ",
                     "ko": "지휘관님도 한번 뽑아보시겠어요? 그리고 아카기와 이어져서 ...후후후후"
@@ -1016,7 +1016,7 @@
     "13": {
         "pid": "13",
         "kansen": "R-Guitarist",
-        "icon": "Admiral_Hipper_µChibiIcon",
+        "icon": "hipper_mu",
         "article": {
             "jp": "#フェス 鉄血といえばビールとソーセージね！",
             "ko": "#페스 철혈하면 역시 맥주와 소시지!"
@@ -1034,7 +1034,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "は？べ、別にはしゃいでるわけじゃないけど？",
                     "ko": "하? 벼, 별로 들떠있는 거 아니거든?"
@@ -1079,7 +1079,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
                     "ko": "흥! 그렇게까지 참가하고 싶다면, 한번 생각해 볼 수도 있는데!?"
@@ -1097,7 +1097,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
                     "ko": "흥! 그렇게까지 참가하고 싶다면, 한번 생각해 볼 수도 있는데!?"
@@ -1144,7 +1144,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "植物を飾るのなら、もっと美しいもの…例えばヒガンバナ…ふふふ",
                     "ko": "식물을 가꾸신다면, 좀 더 아름다운 것을... 예를 들면 피안화라든가... 후후후"
@@ -1153,7 +1153,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "そんな飾り方どこにあるってんのよ…初心者ならガーベラかコスモス、ビオラとかじゃない？",
                     "ko": "그런걸 가드닝하는 사람이 어딨어... 초보자는 거베라나 코스모스, 비올라정도 아냐?"
@@ -1171,7 +1171,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "別に？普通よ！",
                     "ko": "별로? 이 정도는 보통이지!"
@@ -1209,7 +1209,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "はい！ストップ！",
                     "ko": "거기! 스톱!"
@@ -1227,7 +1227,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "ものを壊す気持ちよさ、わかりますわ～",
                     "ko": "뭔가를 부수는 즐거움, 잘 알아요~"
@@ -1236,7 +1236,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ストオオオップ！",
                     "ko": "스토오오옵!"
@@ -1283,7 +1283,7 @@
     "16": {
         "pid": "16",
         "kansen": "R-Guitarist",
-        "icon": "Admiral_Hipper_µChibiIcon",
+        "icon": "hipper_mu",
         "article": {
             "jp": "#ぬいぐるみ かわいい！",
             "ko": "#인형 귀여워!"
@@ -1310,7 +1310,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "そ、そんなことないわよ！？今のは乗っ取られて間違えて送信されただけだっての！",
                     "ko": "그, 그런거 아니거든!? 방금건 해킹당해서 누가 멋대로 올린 거라니까!"
@@ -1328,7 +1328,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "オイゲン！！！！",
                     "ko": "오이겐!!!!"
@@ -1346,7 +1346,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "！",
                     "ko": "!"
@@ -1364,7 +1364,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "ええ！？",
                     "ko": "에!?"
@@ -1438,7 +1438,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "仲いいわねあんたたち…",
                     "ko": "사이 좋네 너희들..."
@@ -1494,7 +1494,7 @@
             {
                 "depth": 0,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "「アイドル」云々はさておき、女の子として自分を美しくするのは当然ではなくて？",
                     "ko": "[아이돌] 운운은 둘째치고, 여자라면 스스로를 꾸미는건 당연한 거 아닌가요?"
@@ -1503,7 +1503,7 @@
             {
                 "depth": 1,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "今のって結構的を射た話ね",
                     "ko": "꽤 핵심을 찌르는 이야기네"
@@ -1568,7 +1568,7 @@
     "19": {
         "pid": "19",
         "kansen": "Ootori_Shikikan",
-        "icon": "Akagi_µChibiIcon",
+        "icon": "akagi_mu",
         "article": {
             "jp": "赤城の愛情を込めました❤️",
             "ko": "아카기의 애정을 담았어요❤️"
@@ -1595,7 +1595,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "後輩の戯言など気にしませんわ～指揮官さまに変な話を吹き込む「害虫」なら別ですけど…ふふふ",
                     "ko": "후배가 뭐라하든 신경 안 쓴답니다~ 지휘관에게 쓸데없는 소리를 지껄이는 [해충]이라면 이야기가 다르지만요... 후후후"
@@ -1613,7 +1613,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、指揮官さまへの愛は無敵ですわ",
                     "ko": "후후후, 지휘관님을 향한 사랑은 무적이랍니다"
@@ -1640,7 +1640,7 @@
             {
                 "depth": 1,
                 "kansen": "Ootori_Shikikan",
-                "icon": "Akagi_µChibiIcon",
+                "icon": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さま、今お届けに参りますわ～",
                     "ko": "지휘관님, 지금 전해드리러 찾아뵐게요~"
@@ -1669,7 +1669,7 @@
             {
                 "depth": 0,
                 "kansen": "R-Guitarist",
-                "icon": "Admiral_Hipper_µChibiIcon",
+                "icon": "hipper_mu",
                 "comment": {
                     "jp": "舞台裏で頑張ってる子たちにも感謝しないとね",
                     "ko": "무대 뒤에서 수고하는 애들에게도 감사해야지"
