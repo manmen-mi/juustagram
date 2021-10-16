@@ -84,7 +84,7 @@ watchEffect(async () => {
 });
 
 watchEffect(() => {
-  if (!prop.pid) return;
+  if (!prop.pid) return current.value = null;
   current.value = posts.value[+prop.pid];
 })
 
