@@ -27,6 +27,10 @@ const commonStr: strDict = {
         jp: "Referenced",
         ko: "참고"
     },
+    refresh: {
+        jp: "Assetのリフレッシュ",
+        ko: "Asset 삭제 및 새로고침",
+    }
 }
 
 export default function useLangStore() {

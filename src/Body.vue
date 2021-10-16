@@ -17,11 +17,7 @@
 
     <div class="hidden lg:flex card card-side shadow-2xl h-[fit-content]">
       <div class="card-body p-5 gap-4 flex-row justify-start">
-        <div class="avatar">
-          <div class="rounded-full w-16 h-16 border-[#dddddd] border-solid border-[0.5px]">
-            <img src="/assets/kansen/commander.png">
-          </div>
-        </div>
+        <kansen name="commander" />
         <div class="form-control my-auto">
           <span class="font-bold">commander__</span>
           <span class="text-gray-400">Shiki-kan</span>
@@ -55,6 +51,7 @@ import { useRoute } from "vue-router";
 import PostHead from "./component/PostHead.vue";
 import PostAction from "./component/PostAction.vue";
 import PostArticles from "./component/PostArticles.vue";
+import Kansen from "./component/Kansen.vue";
 import axios from "axios";
 
 const prop = defineProps({
@@ -87,7 +84,7 @@ watchEffect(async () => {
 });
 
 watchEffect(() => {
-  if (!prop.pid) return;
+  if (!prop.pid) return current.value = null;
   current.value = posts.value[+prop.pid];
 })
 

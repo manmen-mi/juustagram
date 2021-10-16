@@ -15,13 +15,24 @@
           </ul>
         </td>
       </tr>
+      <tr>
+        <th>{{ getCommon('refresh') }}</th>
+        <td><button @click="refresh" class="btn btn-ghost">Refresh</button></td>
+      </tr>
     </table>
   </main>
 </template>
 
 <script setup>
+import { useRouter } from "vue-router";
 import useLang from "./lang";
 
 const { getCommon } = useLang();
+
+const { push } = useRouter();
+const refresh = () => {
+  localStorage.removeItem('asset_version');
+  push('/');
+}
 
 </script>
