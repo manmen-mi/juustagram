@@ -1,8 +1,7 @@
 {
     "1" : {
         "pid": "1",
-        "kansen": "Ootori_Shikikan",
-        "icon": "akagi_mu",
+        "name": "akagi_mu",
         "article": {
             "jp": "饅頭、意外と美味しいわね…頭からパクっと…ふふふふふ",
             "ko": "만두, 의외로 맛있네...머리부터 먹으면...후후후후후"
@@ -10,8 +9,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "えっ、食べられるの！？",
                     "ko": "어, 먹는거야!?"
@@ -19,8 +17,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "饅頭は食用不可と診断。写真にあるのは摂食可能なお菓子「まんじゅう」と認む",
                     "ko": "만두는 식용불가로 판단. 사진에 있는 것은 섭취가능한 과자 [만두]로 판단"
@@ -28,8 +25,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "作ってみますか。指揮官まんじゅう",
                     "ko": "만들어 보시겠습니까? 지휘관 만두"
@@ -37,8 +33,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ…それならぜひこの私に参加させて頂戴。指揮官さまのおまんじゅうは全部私が作りますわ～",
                     "ko": "후후후...그런거라면 꼭 나도 참가시켜주면 좋겠어. 지휘관님 만두는 전부 내가 만들테니~"
@@ -46,8 +41,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "やめてっての！",
                     "ko": "그만두라고!"
@@ -55,8 +49,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "美味しそう",
                     "ko": "맛있겠다"
@@ -64,8 +57,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官様も一個どう？はい、あーん",
                     "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
@@ -73,8 +65,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ヤメロー",
                     "ko": "안돼"
@@ -82,8 +73,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官様も一個どう？はい、あーん",
                     "ko": "지휘관님도 하나 어떠신가요? 자, 앙하세요"
@@ -93,8 +83,7 @@
     },
     "2" : {
         "pid": "2",
-        "kansen": "GascogneT8",
-        "icon": "gascogne_mu",
+        "name": "gascogne_mu",
         "article": {
             "jp": "「自由行動」指示の意味、判断しかねる",
             "ko": "[자유행동]지시의 의미, 판단 곤란"
@@ -102,8 +91,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "せっかくのオフの日だから、思いっきり遊んだほうがいいぜ！",
                     "ko": "휴일이니까, 마음껏 노는게 어때?"
@@ -111,8 +99,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "「思いっきり遊ぶ」、参考になる情報の提示を求む",
                     "ko": "[마음껏논다], 참고가 될 만한 정보의 제시를 요구"
@@ -120,8 +107,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "ええと、サーフィンとか日光浴とか？砂の城作りも結構面白いと思うぜ？",
                     "ko": "으음, 서핑이나 일광욕은 어때? 모래성 쌓기도 꽤 재밌다구?"
@@ -129,8 +115,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "砂のお城作り……",
                     "ko": "모래성 쌓기......"
@@ -138,8 +123,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "なに呑気にやってんのよ…",
                     "ko": "뭘 그렇게 태평하게 있는 거야..."
@@ -147,8 +131,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "オフの日だからね！ヒッパーも羽を伸ばしたほうがいいよ！",
                     "ko": "휴일이잖아! 히퍼도 편하게 쉬는게 어때?"
@@ -156,8 +139,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "は！？誰がそんなことするっての！",
                     "ko": "하!? 누가 그런 거 할거 같아?"
@@ -165,8 +147,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "砂城作り…いいアイデア！",
                     "ko": "모래성 쌓기라... 좋은 아이디어야!"
@@ -174,8 +155,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "任務了承。ガスコーニュ、「砂城作り」行動を開始――",
                     "ko": "임무 승낙. 가스코뉴, [모래성 쌓기] 행동을 개시――"
@@ -183,8 +163,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "楽しいと思うことをすればいい",
                     "ko": "재밌다고 생각하는 걸 하면 돼"
@@ -192,8 +171,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "「楽しい」感情の活性化条件について、指示を求む",
                     "ko": "[재미] 감정의 활성화 조건에 대해, 지시를 요구"
@@ -203,8 +181,7 @@
     },
     "3": {
         "pid": "3",
-        "kansen": "GascogneT8",
-        "icon": "gascogne_mu",
+        "name": "gascogne_mu",
         "article": {
             "jp": "「砂城作り」、行動完了",
             "ko": "[모래성 쌓기], 행동 완료"
@@ -212,8 +189,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "す、すごい……",
                     "ko": "어、엄청나……"
@@ -221,8 +197,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "該当行動に関するカンジョウ的評価、「面白い」と判断",
                     "ko": "해당 행동에 관한 감정적 평가, [재미있다]라고 판단"
@@ -230,8 +205,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "つまり楽しいってことね！",
                     "ko": "즐거웠단 소리지!"
@@ -239,8 +213,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ま、まあ…頑張ったんじゃない？",
                     "ko": "뭐, 뭐어... 열심히 만든거 같은데?"
@@ -248,8 +221,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ヒッパーもやってましたが小屋すら作れていませんでしたよね",
                     "ko": "히퍼도 도전했지만, 오두막조차 만들지 못했죠"
@@ -257,8 +229,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "はあ！？だ、誰が同情してなんて言ったのよ！？",
                     "ko": "하아!? 누가 동정해달라고 했어!?"
@@ -266,8 +237,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "ヒッパーに対する支援行動、要請対応の可能を認む",
                     "ko": "히퍼에 대한 지원 행동, 요청 대응의 가능성을 확인"
@@ -275,8 +245,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "だからいらないっての！",
                     "ko": "필요없다니까 그러네!"
@@ -284,8 +253,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "すごい！",
                     "ko": "대단해！"
@@ -293,8 +261,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "ガスコーニュ、「楽しい」カンジョウの活性化を認む",
                     "ko": "가스코뉴, [재미]감정의 활성화를 확인"
@@ -304,8 +271,7 @@
     },
     "4": {
         "pid": "4",
-        "kansen": "Cleveland☆Knight",
-        "icon": "cleveland_mu",
+        "name": "cleveland_mu",
         "article": {
             "jp": "#今日の昼ごはん みんなの分まで買うのが大変だったよー",
             "ko": "#오늘의점심 모두의 몫까지 사느라 고생이었다고~"
@@ -313,8 +279,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.3",
-                "icon": "columbia",
+                "name": "columbia",
                 "comment": {
                     "jp": "クリーブランド姉貴、サイコー！",
                     "ko": "클리블랜드 언니, 최고!"
@@ -322,8 +287,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.1",
-                "icon": "montpelier",
+                "name": "montpelier",
                 "comment": {
                     "jp": "姉貴と一緒に行きたかった…！",
                     "ko": "언니랑 같이 가고싶었어...!"
@@ -331,8 +295,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.2",
-                "icon": "denver",
+                "name": "denver",
                 "comment": {
                     "jp": "今度は私たちが買ってくるよ！",
                     "ko": "다음엔 우리가 사올게!"
@@ -340,8 +303,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "あーあ、相変わらず仲睦まじいってことね",
                     "ko": "아~, 여전히 사이좋네"
@@ -349,8 +311,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "健康的に…？",
                     "ko": "건강은...?"
@@ -358,8 +319,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "たまにはいいの！へへ！",
                     "ko": "가끔씩은 괜찮아! 헤헷!"
@@ -369,8 +329,7 @@
     },
     "5": {
         "pid": "5",
-        "kansen": "ShiningS",
-        "icon": "sheffield_mu",
+        "name": "sheffield_mu",
         "article": {
             "jp": "#夜間戦闘 「夜空に光る星をこの手で摘み取りキミに届ける」",
             "ko": "#야간전투 [밤하늘에 빛나는 별을 이 손으로 따다 당신에게 전하다]"
@@ -378,8 +337,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "え？",
                     "ko": "뭐?"
@@ -387,8 +345,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "天体を撃墜するためのエネルギーと兵装のシミュレーションを行う",
                     "ko": "천체를 격추하기 위한 에너지와 병기의 시뮬레이션을 시행"
@@ -396,8 +353,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "…え？",
                     "ko": "…뭐?"
@@ -405,8 +361,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "星をも落とす…ふふ、随分とロマンチックな歌詞ですわね",
                     "ko": "별을 떨어뜨리다... 후후, 꽤나 로맨틱한 가사네요"
@@ -414,8 +369,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "明石に星の装飾を発注しておくか",
                     "ko": "아카시에게 별장식을 발주해둬야겠군"
@@ -423,8 +377,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ご主人さまはロマンのかけらもございませんね",
                     "ko": "주인님은 로망이라곤 눈꼽만큼도 없으시군요"
@@ -434,8 +387,7 @@
     },
     "6": {
         "pid": "6",
-        "kansen": "R-Guitarist",
-        "icon": "hipper_mu",
+        "name": "hipper_mu",
         "article": {
             "jp": "#趣味 今日のコンディションは最高ね！",
             "ko": "#취미 오늘 컨디션은 최고야!"
@@ -443,8 +395,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "おお…かっこいいギター！",
                     "ko": "오오... 멋진 기타!"
@@ -452,8 +403,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "べ、別にあんたに褒められても嬉しくないけど？！",
                     "ko": "벼, 별로 너한테 칭찬받은걸로는 기쁘지도 않거든?!"
@@ -461,8 +411,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "やっぱりそうですね。「金髪まな板のテンプレート」",
                     "ko": "역시 그렇군요. [금발 빨래판의 템플릿]"
@@ -470,8 +419,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "誰がツンデレだって言ってんの！？",
                     "ko": "누가 츤데레라는 거야!?"
@@ -479,8 +427,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "ガスコーニュ、ヴィシアのイメージ色のカラーリングへ塗装を提案",
                     "ko": "가스코뉴, 비시아의 이미지 컬러링으로 도색을 제안"
@@ -488,8 +435,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、いいセンスですわ",
                     "ko": "후후후, 좋은 센스에요"
@@ -497,8 +443,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ヒッパー、ロックンロール！",
                     "ko": "히퍼, 로큰롤!"
@@ -506,8 +451,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "は？！",
                     "ko": "하?!"
@@ -517,8 +461,7 @@
     },
     "7": {
         "pid": "7",
-        "kansen": "Ootori_Shikikan",
-        "icon": "akagi_mu",
+        "name": "akagi_mu",
         "article": {
             "jp": "夜の練習…やっぱり指揮官さまがいないといまいち盛り上がりませんわね",
             "ko": "야간 연습... 역시 지휘관님이 안 계시니 별로 내키지가 않네요"
@@ -526,8 +469,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ご主人さまがいなくても頑張ってください。みんな揃っての練習ですので",
                     "ko": "주인님이 안 계셔도 열심히 해주세요. 다같이 하는 연습이니"
@@ -535,8 +477,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "やるからには根性を見せなさいっての！",
                     "ko": "이왕 할거면 근성을 보여주라고!"
@@ -544,8 +485,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "「適当にやれば？」と言いながら誰よりも本気だったのはどなたでしょうね",
                     "ko": "[적당히 하면 되잖아?]라고 하면서 누구보다도 진심이었던건 어느분이실까요"
@@ -553,8 +493,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "は！？だ、誰がそんな話したわけ！？聞き間違いだったの！",
                     "ko": "하!? 누, 누가 그런 얘기를 했다는 거야!? 잘못 들은 거겠지!"
@@ -562,8 +501,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "はあ…指揮官さまさえいれば……",
                     "ko": "하아...지휘관님만 계셨더라도..."
@@ -571,8 +509,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "レッスン。「面白い」と評価",
                     "ko": "레슨. [재미있다]고 평가"
@@ -580,8 +517,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "まあまあ…赤城も頑張ってたしね",
                     "ko": "뭐...아카기도 열심히 했으니까"
@@ -589,8 +525,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "見学できなくてごめんね",
                     "ko": "보러가지 못해서 미안해"
@@ -598,8 +533,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さま、赤城練習が終わったらすぐ会いに行きますわ！",
                     "ko": "지휘관님, 연습이 끝나면 아카기가 바로 찾아갈게요!"
@@ -607,8 +541,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "練習頑張ってね",
                     "ko": "연습 힘내"
@@ -616,8 +549,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまの応援…！赤城、やる気がもりもり湧いてきましたわ！",
                     "ko": "지휘관님의 응원...! 아카기, 의욕이 샘솟기 시작했어요!"
@@ -627,8 +559,7 @@
     },
     "8": {
         "pid": "8",
-        "kansen": "Cleveland☆Knight",
-        "icon": "cleveland_mu",
+        "name": "cleveland_mu",
         "article": {
             "jp": "#盆栽の育て方\n音楽を聞かせればもっと育つんじゃないかなー",
             "ko": "#분재_키우는_법\n음악을 들려주면 더 잘자라지 않을까-"
@@ -636,8 +567,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "は？そんなのありえないっての",
                     "ko": "하? 그럴리가 없잖아"
@@ -645,8 +575,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "ログデータから該当ケースの実例ありと認む。科学的根拠は未発見と判断",
                     "ko": "로그 데이터에서 해당 케이스의 실제 사례를 인식. 과학적 근거는 미발견이라 판단"
@@ -654,8 +583,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "あははは…",
                     "ko": "아하하하..."
@@ -663,8 +591,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまに毎日赤城のことを聞かせれば、赤城のことだけ見てくれるようになるのかしら……",
                     "ko": "지휘관님께 매일 아카기 이야기를 들려드리면, 아카기만을 바라봐주지 않을까요......"
@@ -672,8 +599,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "あははは…",
                     "ko": "아하하하..."
@@ -681,8 +607,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "クリーブランドが手入れしているものでしたら、別に音楽を聞かせなくてもよく育つと思いますが",
                     "ko": "클리블랜드가 손질한다면, 굳이 음악을 들려주지 않아도 잘 자랄거라 생각합니다만"
@@ -690,8 +615,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "そりゃそうだね！",
                     "ko": "그야 당연하지!"
@@ -699,8 +623,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "もしかしたら効果あるかも",
                     "ko": "혹시 효과가 있을지도"
@@ -708,8 +631,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "本当！？",
                     "ko": "진짜로!?"
@@ -719,8 +641,7 @@
     },
     "9": {
         "pid": "9",
-        "kansen": "ShiningS",
-        "icon": "sheffield_mu",
+        "name": "sheffield_mu",
         "article": {
             "jp": "#練習 もう少し練習しないといけませんね",
             "ko": "#연습 좀 더 연습해야겠네요"
@@ -728,8 +649,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "もう十分上手だよ！",
                     "ko": "지금도 충분히 잘하고 있어!"
@@ -737,8 +657,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "…掃除も音楽も同じく、まだまだ理想には程遠いですが",
                     "ko": "...청소도 음악도, 아직 목표하는 이상에는 도달하지 못했습니다만"
@@ -746,8 +665,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ま、せいぜいみんなの足を引っ張らないようにするっての！",
                     "ko": "뭐, 다른 멤버들 발목을 잡지 않도록 노력해보라고!"
@@ -755,8 +673,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ヒッパーこそもっと練習したほうがいいと思いますが",
                     "ko": "히퍼야말로 좀 더 연습이 필요한 것 같습니다만"
@@ -764,8 +681,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "だから一緒に練習やってるっての！",
                     "ko": "그래서 지금 같이 연습하고 있잖아!"
@@ -773,8 +689,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "シェフィールドの生演奏を聞きたい",
                     "ko": "셰필드의 연주를 직접 듣고 싶어"
@@ -782,8 +697,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ご主人さまがそう仰るのでしたら準備いたします。聞くと呪われる曲でも用意したほうがよろしいでしょうか。……冗談ですが",
                     "ko": "주인님이 그리 말씀하신다면 준비하겠습니다. 들으면 저주받는 곡이라도 준비하는게 좋을까요. ...농담입니다만"
@@ -793,8 +707,7 @@
     },
     "10": {
         "pid": "10",
-        "kansen": "R-Guitarist",
-        "icon": "hipper_mu",
+        "name": "hipper_mu",
         "article": {
             "jp": "#休憩中 仕事のあとのコーヒーは染みるわね…",
             "ko": "#휴식중 일 끝나고 마시는 커피는 몸에 스며드네..."
@@ -802,8 +715,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "コーヒーより紅茶派です",
                     "ko": "커피보다는 홍차가 좋습니다"
@@ -811,8 +723,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "目覚め効果もあるコーヒーのほうが上に決まってるじゃない",
                     "ko": "잠깨는 효과도 있는 커피가 당연히 더 뛰어나지"
@@ -820,8 +731,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "こんな泥水のような黒い液体を好むなんて理解できませんね",
                     "ko": "이런 흙탕물 같은 검은 액체를 좋아하신다니 이해할 수 없네요"
@@ -829,8 +739,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "そっちこそ理解できないっての！",
                     "ko": "그쪽이야말로 이해할 수 없거든!"
@@ -838,8 +747,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "まあまあ好みとかそれぞれだから…酸素コーラの差し入れでもいる？",
                     "ko": "뭐 취향은 각자 다르니까... 산소콜라라도 하나 사올까?"
@@ -847,8 +755,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ブラック派？",
                     "ko": "블랙 커피파?"
@@ -856,8 +763,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ま、まあね",
                     "ko": "뭐, 뭐 그렇지"
@@ -867,8 +773,7 @@
     },
     "11": {
         "pid": "11",
-        "kansen": "GascogneT8",
-        "icon": "gascogne_mu",
+        "name": "gascogne_mu",
         "article": {
             "jp": "#レッスン\nガスコーニュ、「カンジョウ」を込めた歌唱行動遂行の可能性を検証中",
             "ko": "#레슨\n가스코뉴, [감정]을 담은 가창행동수행의 가능성을 검증중"
@@ -876,8 +781,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、「愛」さえあれば、できないことはありませんわ",
                     "ko": "후후후, [사랑]만 있다면 뭐든지 할 수 있답니다"
@@ -885,8 +789,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "「愛」…ガスコーニュ、同カンジョウの理解について必要情報の不足を認む",
                     "ko": "[사랑]... 가스코뉴, 해당 감정의 이해에 필요한 정보부족을 인식"
@@ -894,8 +797,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "とりあえず自分がいいと思うように頑張ればいいと思うぜ。悩むのはなしだ！",
                     "ko": "일단 자기가 만족할 수 있도록 노력하는게 좋다고 생각해. 고민하지 말고!"
@@ -903,8 +805,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "クリーブランドの言う通りね",
                     "ko": "클리블랜드 말이 맞아"
@@ -912,8 +813,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ガスコーニュ、上手く歌ってるよ",
                     "ko": "가스코뉴는 잘 부른다고 생각해"
@@ -921,8 +821,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "歌唱行動の技術への評価と「カンジョウ」への評価の同一視、分析の混乱を引き起こす可能性を認む…",
                     "ko": "가창행동의 기술적 평가와 [감정]평가의 동일시, 분석의 혼란을 일으킬 가능성을 인식..."
@@ -932,8 +831,7 @@
     },
     "12": {
         "pid": "12",
-        "kansen": "Ootori_Shikikan",
-        "icon": "akagi_mu",
+        "name": "akagi_mu",
         "article": {
             "jp": "大吉を引いたわ～今日はどんないいことが起きるのかしら…もしかして指揮官様と…ふふふ",
             "ko": "대길을 뽑았어요~ 오늘은 무슨 좋은 일이 일어날까요... 어쩌면 지휘관님과... 후후후"
@@ -941,8 +839,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Ran_mew",
-                "icon": "kaga",
+                "name": "kaga",
                 "comment": {
                     "jp": "姉さま、こういう書き込みは自重したほうが……",
                     "ko": "언니, 이런 게시글은 자중하는 편이......"
@@ -950,8 +847,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "加賀、指揮官さまへの愛を隠す必要などないわよ？",
                     "ko": "카가, 지휘관님을 향한 애정을 숨길 필요는 없답니다?"
@@ -959,8 +855,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ran_mew",
-                "icon": "kaga",
+                "name": "kaga",
                 "comment": {
                     "jp": "ね、姉さま、ハンドルネーム…",
                     "ko": "어, 언니, 닉네임..."
@@ -968,8 +863,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "今日も赤城は平常運転だな…",
                     "ko": "오늘도 아카기는 여전하구나..."
@@ -977,8 +871,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ran_mew",
-                "icon": "kaga",
+                "name": "kaga",
                 "comment": {
                     "jp": "だから、ハンドルネーム……",
                     "ko": "그러니까 닉네임......"
@@ -986,8 +879,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "重桜の「おみくじ」…今度引いてみるか…",
                     "ko": "중앵의[제비뽑기]... 다음에 한번 뽑아볼까..."
@@ -995,8 +887,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "面白そう",
                     "ko": "재밌어보여"
@@ -1004,8 +895,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さまも引いてみてはどうですか？そして赤城と縁結び…ふふふふ",
                     "ko": "지휘관님도 한번 뽑아보시겠어요? 그리고 아카기와 이어져서 ...후후후후"
@@ -1015,8 +905,7 @@
     },
     "13": {
         "pid": "13",
-        "kansen": "R-Guitarist",
-        "icon": "hipper_mu",
+        "name": "hipper_mu",
         "article": {
             "jp": "#フェス 鉄血といえばビールとソーセージね！",
             "ko": "#페스 철혈하면 역시 맥주와 소시지!"
@@ -1024,8 +913,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "P.Eugen",
-                "icon": "eugen",
+                "name": "eugen",
                 "comment": {
                     "jp": "フェスではしゃいでるヒッパーちゃん、かわいい～",
                     "ko": "페스라고 들떠있는 히퍼쨩, 귀여워~"
@@ -1033,8 +921,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "は？べ、別にはしゃいでるわけじゃないけど？",
                     "ko": "하? 벼, 별로 들떠있는 거 아니거든?"
@@ -1042,8 +929,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "P.Eugen",
-                "icon": "eugen",
+                "name": "eugen",
                 "comment": {
                     "jp": "はい入りました～「金髪まな板のテンプレート」～",
                     "ko": "나왔다~ [금발 빨래판의 템플릿]~"
@@ -1051,8 +937,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "GRAFSPEE",
-                "icon": "spee",
+                "name": "spee",
                 "comment": {
                     "jp": "こういう場所にはやっぱり慣れないけど…鉄血のみんなと一緒だと気が少し楽になるね",
                     "ko": "이런 곳은 역시 익숙하지 않지만... 철혈의 모두와 함께라면 마음이 조금 편해져"
@@ -1060,8 +945,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "SPEE_FIGHT",
-                "icon": "deutschland",
+                "name": "deutschland",
                 "comment": {
                     "jp": "たまにはこういうイベントもいいわね…シュペーも楽しんでるし、いい事づくしだわ！あははははは！",
                     "ko": "가끔씩은 이런 이벤트도 괜찮네... 쉬페도 즐거워 보이고, 좋은 일만 한가득이야! 아하하하하하!"
@@ -1069,8 +953,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "Prost！",
                     "ko": "Prost！"
@@ -1078,8 +961,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
                     "ko": "흥! 그렇게까지 참가하고 싶다면, 한번 생각해 볼 수도 있는데!?"
@@ -1087,8 +969,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ソーセージ、美味しそう",
                     "ko": "소시지, 맛있어보여"
@@ -1096,8 +977,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ふん！どうしても参加すると言うなら考えてやらないこともないけど！？",
                     "ko": "흥! 그렇게까지 참가하고 싶다면, 한번 생각해 볼 수도 있는데!?"
@@ -1107,8 +987,7 @@
     },
     "14": {
         "pid": "14",
-        "kansen": "Cleveland☆Knight",
-        "icon": "cleveland_mu",
+        "name": "cleveland_mu",
         "article": {
             "jp": "#ガーデニング 今日もいい感じ！へへ！",
             "ko": "#가드닝 오늘도 좋은 느낌! 헤헷!"
@@ -1116,8 +995,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "盆栽以外にもガーデニングを嗜んでおられますか",
                     "ko": "분재 이외에도 가드닝에 소양이 있으시군요"
@@ -1125,8 +1003,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "まあね、ついでにって感じで！",
                     "ko": "뭐, 겸사겸사 하는 느낌이지!"
@@ -1134,8 +1011,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "綻びる…生命",
                     "ko": "피어나는... 생명"
@@ -1143,8 +1019,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "植物を飾るのなら、もっと美しいもの…例えばヒガンバナ…ふふふ",
                     "ko": "식물을 가꾸신다면, 좀 더 아름다운 것을... 예를 들면 피안화라든가... 후후후"
@@ -1152,8 +1027,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "そんな飾り方どこにあるってんのよ…初心者ならガーベラかコスモス、ビオラとかじゃない？",
                     "ko": "그런걸 가드닝하는 사람이 어딨어... 초보자는 거베라나 코스모스, 비올라정도 아냐?"
@@ -1161,8 +1035,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "お！ヒッパーもこういうの、詳しいの？",
                     "ko": "오! 히퍼도 이런거 잘 알아?"
@@ -1170,8 +1043,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "別に？普通よ！",
                     "ko": "별로? 이 정도는 보통이지!"
@@ -1179,8 +1051,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ガーデニングマスター…！",
                     "ko": "가드닝 마스터...!"
@@ -1188,8 +1059,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "全然初心者だってば！",
                     "ko": "완전 초보라니까!"
@@ -1199,8 +1069,7 @@
     },
     "15": {
         "pid": "15",
-        "kansen": "ShiningS",
-        "icon": "sheffield_mu",
+        "name": "sheffield_mu",
         "article": {
             "jp": "#分解実験 マイクの構造、面白いですね。早速分解してみました",
             "ko": "#분해실험 마이크의 구조, 재미있네요. 한번 분해해 봤습니다"
@@ -1208,8 +1077,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "はい！ストップ！",
                     "ko": "거기! 스톱!"
@@ -1217,8 +1085,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "しぇ、シェフィールドらしいね…",
                     "ko": "셰, 셰필드답네..."
@@ -1226,8 +1093,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "ものを壊す気持ちよさ、わかりますわ～",
                     "ko": "뭔가를 부수는 즐거움, 잘 알아요~"
@@ -1235,8 +1101,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ストオオオップ！",
                     "ko": "스토오오옵!"
@@ -1244,8 +1109,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "分解の仕方について詳しく",
                     "ko": "분해하는 법에 대해 자세하게"
@@ -1253,8 +1117,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ご主人さまもご興味が？",
                     "ko": "주인님도 흥미가 있으신가요?"
@@ -1262,8 +1125,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ストオオオップ！",
                     "ko": "스토오오옵!"
@@ -1271,8 +1133,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ちっ",
                     "ko": "칫"
@@ -1282,8 +1143,7 @@
     },
     "16": {
         "pid": "16",
-        "kansen": "R-Guitarist",
-        "icon": "hipper_mu",
+        "name": "hipper_mu",
         "article": {
             "jp": "#ぬいぐるみ かわいい！",
             "ko": "#인형 귀여워!"
@@ -1291,8 +1151,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "こういうのがお好きなんですね",
                     "ko": "이런게 취향이셨군요"
@@ -1300,8 +1159,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "ヒッパーってカワイイアイテムが好きなんだ……",
                     "ko": "히퍼는 귀여운 아이템을 좋아하는구나..."
@@ -1309,8 +1167,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "そ、そんなことないわよ！？今のは乗っ取られて間違えて送信されただけだっての！",
                     "ko": "그, 그런거 아니거든!? 방금건 해킹당해서 누가 멋대로 올린 거라니까!"
@@ -1318,8 +1175,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "例のテンプレート、入りましたね",
                     "ko": "그 템플릿, 나왔군요"
@@ -1327,8 +1183,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "オイゲン！！！！",
                     "ko": "오이겐!!!!"
@@ -1336,8 +1191,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "かわいい！",
                     "ko": "귀여워!"
@@ -1345,8 +1199,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "！",
                     "ko": "!"
@@ -1354,8 +1207,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "今度自分用にも……",
                     "ko": "다음에 내 것도......"
@@ -1363,8 +1215,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "ええ！？",
                     "ko": "에!?"
@@ -1374,8 +1225,7 @@
     },
     "17": {
         "pid": "17",
-        "kansen": "Cleveland☆Knight",
-        "icon": "cleveland_mu",
+        "name": "cleveland_mu",
         "article": {
             "jp": "#今日のリハーサル ステージで汗をかくのも気持ちいいね！",
             "ko": "#오늘의_리허설 스테이지에서 땀 흘리는 것도 기분 좋네!"
@@ -1383,8 +1233,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.1",
-                "icon": "montpelier",
+                "name": "montpelier",
                 "comment": {
                     "jp": "姉貴…最高でした！",
                     "ko": "언니... 최고였어요!"
@@ -1392,8 +1241,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "は、恥ずかしいからそういうのやめて？",
                     "ko": "부, 부끄러우니까 그런 말 하지말아줘!"
@@ -1401,8 +1249,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.2",
-                "icon": "denver",
+                "name": "denver",
                 "comment": {
                     "jp": "クリーブランド姉貴はいつでも最高だよ！",
                     "ko": "클리블랜드 언니는 언제나 최고야!"
@@ -1410,8 +1257,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "だから恥ずかしいから言わなくていいってば！",
                     "ko": "그러니까 부끄러운 말 안해도 된다니깐!"
@@ -1419,8 +1265,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleve-FC.3",
-                "icon": "columbia",
+                "name": "columbia",
                 "comment": {
                     "jp": "じゃあ私も！クリーブランド、キュート❤️",
                     "ko": "그럼 나도! 클리블랜드, 큐트❤️"
@@ -1428,8 +1273,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "もうやめてぇぇぇぇ＞＜",
                     "ko": "그만둬어어어어 > <"
@@ -1437,8 +1281,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "仲いいわねあんたたち…",
                     "ko": "사이 좋네 너희들..."
@@ -1446,8 +1289,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "クリーブランド、最高ォ！",
                     "ko": "클리블랜드, 최고!"
@@ -1455,8 +1297,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "恥ずかしいからこの話題禁止！",
                     "ko": "부끄러우니까 이 이야기 금지!"
@@ -1464,8 +1305,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "わかる。これが青春だ…！",
                     "ko": "잘 알지. 이것이 청춘이다...!"
@@ -1473,8 +1313,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "へへ、やっぱり指揮官は分かってくれるよな！",
                     "ko": "헤헤, 역시 지휘관은 알아주는거지!"
@@ -1484,8 +1323,7 @@
     },
     "18": {
         "pid": "18",
-        "kansen": "GascogneT8",
-        "icon": "gascogne_mu",
+        "name": "gascogne_mu",
         "article": {
             "jp": "必要性について、検証しかねる",
             "ko": "필요성에 대해, 검증 곤란"
@@ -1493,8 +1331,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "「アイドル」云々はさておき、女の子として自分を美しくするのは当然ではなくて？",
                     "ko": "[아이돌] 운운은 둘째치고, 여자라면 스스로를 꾸미는건 당연한 거 아닌가요?"
@@ -1502,8 +1339,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "今のって結構的を射た話ね",
                     "ko": "꽤 핵심을 찌르는 이야기네"
@@ -1511,8 +1347,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "得意ではありませんが、お手伝いが必要でしたらいつでも仰ってください",
                     "ko": "능숙하진 않지만, 도움이 필요하다면 언제든 말씀해주세요"
@@ -1520,8 +1355,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "私は…さ、さすがにこういうのは無理かな…今度ヘレナにちょっと聞いてくるよ…",
                     "ko": "나는... 여, 역시 이런건 무리려나... 다음에 헬레나한테 물어보고 올게..."
@@ -1529,8 +1363,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "そのままでもいいけどね",
                     "ko": "그대로도 괜찮은데 말이야"
@@ -1538,8 +1371,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "ガスコーニュのケースでの、「そのまま」の意味の説明を求む",
                     "ko": "가스코뉴의 경우에 해당하는 [그대로]라는 의미의 설명을 요구"
@@ -1547,8 +1379,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "どんなガスコーニュもガスコーニュだ",
                     "ko": "어떤 가스코뉴라도 가스코뉴야"
@@ -1556,8 +1387,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "GascogneT8",
-                "icon": "gascogne_mu",
+                "name": "gascogne_mu",
                 "comment": {
                     "jp": "…感情モジュールにおける「コンラン」を認む",
                     "ko": "...감정 모듈의 [혼란]을 인식"
@@ -1567,8 +1397,7 @@
     },
     "19": {
         "pid": "19",
-        "kansen": "Ootori_Shikikan",
-        "icon": "akagi_mu",
+        "name": "akagi_mu",
         "article": {
             "jp": "赤城の愛情を込めました❤️",
             "ko": "아카기의 애정을 담았어요❤️"
@@ -1576,8 +1405,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "KADEKURU",
-                "icon": "shoukaku",
+                "name": "shoukaku",
                 "comment": {
                     "jp": "あら、赤城先輩はこんな乙女チックなお菓子も作るのですか？あっ、今度こそ塩と砂糖を間違えずに作れたんですよね？",
                     "ko": "어머, 아카기선배는 이런 소녀스러운 과자도 만드시나요? 아, 이번엔 소금과 설탕을 헷갈리지 않고 제대로 만드셨겠죠?"
@@ -1585,8 +1413,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Zuikaku",
-                "icon": "zuikaku",
+                "name": "zuikaku",
                 "comment": {
                     "jp": "翔鶴姉、先輩を煽っちゃダメだよ…",
                     "ko": "쇼카쿠 언니, 선배를 화나게 하면 안돼..."
@@ -1594,8 +1421,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "後輩の戯言など気にしませんわ～指揮官さまに変な話を吹き込む「害虫」なら別ですけど…ふふふ",
                     "ko": "후배가 뭐라하든 신경 안 쓴답니다~ 지휘관에게 쓸데없는 소리를 지껄이는 [해충]이라면 이야기가 다르지만요... 후후후"
@@ -1603,8 +1429,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "これ、赤城が作ったのか！？すごいな…",
                     "ko": "이거, 아카기가 만든거야!? 대단하네..."
@@ -1612,8 +1437,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "ふふふ、指揮官さまへの愛は無敵ですわ",
                     "ko": "후후후, 지휘관님을 향한 사랑은 무적이랍니다"
@@ -1621,8 +1445,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "私も今度お菓子作りの勉強をしよっかな…女の子としての女子力というか…",
                     "ko": "나도 다음에 과자만드는법 공부해볼까... 여자로서의 소양이라할까..."
@@ -1630,8 +1453,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "美味しそう",
                     "ko": "맛있어보여"
@@ -1639,8 +1461,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "Ootori_Shikikan",
-                "icon": "akagi_mu",
+                "name": "akagi_mu",
                 "comment": {
                     "jp": "指揮官さま、今お届けに参りますわ～",
                     "ko": "지휘관님, 지금 전해드리러 찾아뵐게요~"
@@ -1650,8 +1471,7 @@
     },
     "20": {
         "pid": "20",
-        "kansen": "ShiningS",
-        "icon": "sheffield_mu",
+        "name": "sheffield_mu",
         "article": {
             "jp": "#舞台裏 お疲れさまでした。皆様のおかげさまでステージで輝けました",
             "ko": "#백그라운드 수고하셨습니다. 여러분덕에 스테이지에서 빛날 수 있었습니다"
@@ -1659,8 +1479,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "Cleveland☆Knight",
-                "icon": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "おう！次も一緒に頑張ろうぜ！",
                     "ko": "응! 다음에도 같이 힘내자!"
@@ -1668,8 +1487,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "R-Guitarist",
-                "icon": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "舞台裏で頑張ってる子たちにも感謝しないとね",
                     "ko": "무대 뒤에서 수고하는 애들에게도 감사해야지"
@@ -1677,8 +1495,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "Belfast_inService",
-                "icon": "belfast",
+                "name": "belfast",
                 "comment": {
                     "jp": "メイド長として陰ながら応援させていただいております。引き続きよろしくお願いいたします",
                     "ko": "메이드장으로서 작게나마 응원하고 있습니다. 앞으로도 잘 부탁드립니다"
@@ -1686,8 +1503,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ベルファスト…努力します",
                     "ko": "벨파스트... 노력하겠습니다"
@@ -1695,8 +1511,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander__",
-                "icon": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "シェフィールド、ファイト！",
                     "ko": "셰필드, 파이팅!"
@@ -1704,8 +1519,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ShiningS",
-                "icon": "sheffield_mu",
+                "name": "sheffield_mu",
                 "comment": {
                     "jp": "ご主人さまに言われなくても",
                     "ko": "주인님께서 말씀하지 않으셔도"
