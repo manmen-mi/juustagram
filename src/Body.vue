@@ -4,7 +4,7 @@
 
       <!-- article -->
       <article v-for="post in posts" class="form-control pt-1 pb-3 gap-2 w-full border-[#dddddd] border-solid border">
-        <post-head :kansen="post.kansen" :icon="post.icon" ></post-head>
+        <post-head :name="post.name" ></post-head>
 
         <img loading="lazy" class="mx-auto" width="512" height="512" :src="`/assets/juu/${post.pid}.png`">
 
@@ -34,7 +34,7 @@
       <img class="w-[512px] max-w-[384px] lg:max-w-[512px] mx-auto my-0" width="512" height="512" :src="`/assets/juu/${current.pid}.png`">
 
       <div class="form-control gap-3 max-h-[calc(100vh-384px)] lg:max-h-[512px] w-full">
-        <post-head :kansen="current.kansen" :icon="current.icon"></post-head>
+        <post-head :name="current.name"></post-head>
 
         <post-articles v-bind="current" :altmode="true"></post-articles>
 
