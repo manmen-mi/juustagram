@@ -8,7 +8,7 @@
 
         <img loading="lazy" class="mx-auto" width="512" height="512" :src="`/assets/juu/${post.pid}.png`">
 
-        <post-action :pid="post.pid"></post-action>
+        <post-action :pid="'' + post.pid"></post-action>
 
         <post-articles v-bind="post"></post-articles>
 
@@ -38,7 +38,7 @@
 
         <post-articles v-bind="current" :altmode="true"></post-articles>
 
-        <post-action :pid="current.pid"></post-action>
+        <post-action :pid="'' + current.pid"></post-action>
       </div>
     </div>
   </div>
@@ -46,7 +46,7 @@
 
 <script lang="ts" setup>
 import { ref, watchEffect } from "vue";
-import { useRoute } from "vue-router";
+import { onBeforeRouteUpdate, useRoute } from "vue-router";
 
 import PostHead from "./component/PostHead.vue";
 import PostAction from "./component/PostAction.vue";
@@ -62,8 +62,9 @@ const {query} = useRoute();
 const posts = ref<any>(null);
 const current = ref<any>();
 
-const allowedGroup = ['polaris'];
-const group = ref<string>(allowedGroup.includes(String(query.group)) ? String(query.group) : 'polaris');
+const allowedGroup = ['polaris', 'shouga'];
+const group = ref<string>('polaris');
+onBeforeRouteUpdate((to) => group.value = allowedGroup.includes(String(to.query.group)) ? String(to.query.group) : 'polaris');
 
 const newVersion = Number(import.meta.env.VITE_ASSET_VERSION);
 if (+(localStorage.getItem('asset_version') ?? 0) < newVersion) {

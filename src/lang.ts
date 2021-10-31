@@ -30,7 +30,17 @@ const commonStr: strDict = {
     refresh: {
         jp: "Assetのリフレッシュ",
         ko: "Asset 삭제 및 새로고침",
-    }
+    },
+
+    // 그룹
+    polaris: {
+        jp: "激奏のポラリス",
+        ko: "격주의 폴라리스",
+    },
+    shouga: {
+        jp: "2020 母港正月",
+        ko: "2020 모항정월 (짙어져 기우는 그림자의 꽃)",
+    },
 }
 
 export default function useLangStore() {
