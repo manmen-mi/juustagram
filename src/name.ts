@@ -45,7 +45,7 @@ const nameDict: {[x: string]: string} = {
     i26: "I26_sensuisenntai",
     i25: "I25_sensuisenntai",
     shoho: "SHOHO",
-    z35: "funf&#9825;3536",
+    z35: "funf❤︎3536",
     z36: "Zech3536",
     saratoga: "SisterSara",
     shiranui: "KoubaiStaff_unofficial",
