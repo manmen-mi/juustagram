@@ -56,7 +56,7 @@ const nameDict: {[x: string]: string} = {
     abukuma: "AbuAbu",
     birmingham: "Cleve-FC.4",
     edinburgh: "☆ Royal Maid ☆",
-    Southampton: "MINAMIpton",
+    southampton: "MINAMIpton",
     glorius: "Glorius"
 
     //

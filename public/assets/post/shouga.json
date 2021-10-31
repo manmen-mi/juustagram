@@ -9,7 +9,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "kongo",
+                "name": "kongo",
                 "comment": {
                     "jp": "セントラルヒーティングもよいのではなくて？",
                     "ko": "보일러 난방도 좋지 않으신지?"
@@ -17,7 +17,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "寮舎の改装まですると流石に大掛かりすぎますね…",
                     "ko": "기숙사 개조까지 하는건 조금 과하니까요..."
@@ -25,7 +25,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kongo",
+                "name": "kongo",
                 "comment": {
                     "jp": "困りますわ＞ｗ＜",
                     "ko": "곤란하네요＞ｗ＜"
@@ -33,7 +33,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "な、なんだこの顔文字は！？",
                     "ko": "뭐, 뭐야 이 이모티콘?"
@@ -41,7 +41,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "kasumi",
+                "name": "kasumi",
                 "comment": {
                     "jp": "昼寝部に入る…？",
                     "ko": "낮잠부 들어올래...?"
@@ -49,7 +49,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "そ、そんな部活あるの!?",
                     "ko": "그, 그런 부가 있어!?"
@@ -57,7 +57,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "コタツ最強！",
                     "ko": "코타츠 최강!"
@@ -65,7 +65,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "執務室に設置してはいけません！本当に仕事どころじゃなくなるから！",
                     "ko": "집무실에 설치하시면 안돼요! 진짜로 일을 못하게 되니까!"
@@ -73,7 +73,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ルームヒーターこそ王道ぞ…",
                     "ko": "룸히터야말로 왕도인걸..."
@@ -81,7 +81,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "それもいいですね…まあ、私はあくまでコタツのほうを推しますけど？",
                     "ko": "그것도 좋죠... 뭐, 저는 어디까지나 코타츠쪽을 추천할거지만요?"
@@ -99,7 +99,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "kongo",
+                "name": "kongo",
                 "comment": {
                     "jp": "あけましておめでとうですわ",
                     "ko": "새해 복 많이받으세요"
@@ -107,7 +107,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "大儀である。今年もそなたの奮闘を期待しておるぞ",
                     "ko": "수고하네. 올해도 그대의 분투를 기대하겠네"
@@ -115,7 +115,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "ロイヤルのお土産も楽しみ！",
                     "ko": "로얄의 선물도 기대돼!"
@@ -123,7 +123,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "陛下に代わり、新年のお祝いを申し上げます",
                     "ko": "폐하를 대신하여, 새해 인사를 올립니다"
@@ -131,7 +131,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "ありがとね！それよりなんでカメラを持って体育館を撮ってたの？教えて！",
                     "ko": "고마워! 그보다 왜 카메라로 체육관을 찍고 있었어? 가르쳐줘!"
@@ -139,7 +139,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "suruga",
+                "name": "suruga",
                 "comment": {
                     "jp": "あけましておめでとうございます",
                     "ko": "새해 복 많이 받으세요"
@@ -147,7 +147,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "合同演習で見せた力、この艦隊のために振るうが良い。そなたの活躍を期待しておるぞ",
                     "ko": "합동훈련에서 보여준 힘, 이 함대를 위해 발휘하도록. 그대의 활약을 기대하고 있다네"
@@ -155,7 +155,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "あけましておめでとう！",
                     "ko": "새해 복 많이 받아!"
@@ -163,7 +163,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "重桜のためにより一層励もう",
                     "ko": "중앵을 위하여 한층 더 노력하겠네"
@@ -171,7 +171,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "このアカウントは長門?それとも誰か別の人が使ってる?",
                     "ko": "이 계정은 나가토? 아니면 누구 다른사람이 쓰고있는 거야?"
@@ -179,7 +179,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "長門様と陸奥様、自分（江風）と妹の共同管理だ",
                     "ko": "나가토님과 무츠님, 나(카와카제)와 여동생의 공동관리다"
@@ -197,7 +197,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "hibiki",
+                "name": "hibiki",
                 "comment": {
                     "jp": "ヤッター！鬼神綾波の全力の一撃で臼は真っ二つ！あれれ？もしかしてこれ即返品できるのかな？",
                     "ko": "해냈다! 귀신 아야나미의 혼신의 일격에 절구는 두 동강! 어라? 혹시 이거 바로 반품가능하려나?"
@@ -205,7 +205,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "inazuma",
+                "name": "inazuma",
                 "comment": {
                     "jp": "この「きれいな断面でなんとか明石の弱みを握れる」と考えている響ですね",
                     "ko": "이 [깔끔한 단면으로 어떻게든 아카시를 맘약하게 할 수 있겠지]고 생각하는 히비키로군요"
@@ -213,7 +213,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ikazuchi",
+                "name": "ikazuchi",
                 "comment": {
                     "jp": "なるほどね！これが「あくしつくれーまー」ってやつね！",
                     "ko": "그렇구나! 이게 [진상 클레이머]라는 거구나!"
@@ -221,7 +221,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "akatsuki",
+                "name": "akatsuki",
                 "comment": {
                     "jp": "返品できるの！？",
                     "ko": "반품할 수 있어!?"
@@ -229,7 +229,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ayanami",
+                "name": "ayanami",
                 "comment": {
                     "jp": "それは流石に無理です…",
                     "ko": "그건 아무래도 무리에요..."
@@ -237,7 +237,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "fubuki",
+                "name": "fubuki",
                 "comment": {
                     "jp": "それ私の臼かも（涙",
                     "ko": "그거 내 절구일지도(눈물"
@@ -245,7 +245,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ayanami",
+                "name": "ayanami",
                 "comment": {
                     "jp": "吹雪、ごめんなさい…です…",
                     "ko": "후부키, 미안해...에요..."
@@ -253,7 +253,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "不知火から調達してもらった分もあるから大丈夫！",
                     "ko": "시라누이가 가져온 것도 있으니까 괜찮아!"
@@ -261,7 +261,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ayanami",
+                "name": "ayanami",
                 "comment": {
                     "jp": "指揮官…ありがとです",
                     "ko": "지휘관...고마워에요"
@@ -269,7 +269,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ドンマイ！",
                     "ko": "너무 신경쓰지마!"
@@ -277,7 +277,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ayanami",
+                "name": "ayanami",
                 "comment": {
                     "jp": "ごめんなさいです。あとでもう一回やってみるです",
                     "ko": "미안해에요. 나중에 한번 더 해볼게에요"
@@ -295,7 +295,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "ikazuchi",
+                "name": "ikazuchi",
                 "comment": {
                     "jp": "なるほどね！これが「めしてろ」ってことね！",
                     "ko": "그렇구나! 이게 [위꼴사진]이라는 거구나!"
@@ -303,7 +303,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "akatsuki",
+                "name": "akatsuki",
                 "comment": {
                     "jp": "それがしの分をちゃんと残してくれでござるよ！",
                     "ko": "아무개의 몫도 꼭 남겨주시길 바라오!"
@@ -311,7 +311,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "inazuma",
+                "name": "inazuma",
                 "comment": {
                     "jp": "暁ちゃんの分は取ってありますよ",
                     "ko": "아카츠키짱의 몫은 따로 남겨뒀어요"
@@ -319,7 +319,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "hibiki",
+                "name": "hibiki",
                 "comment": {
                     "jp": "うぃっすお願いしまーす",
                     "ko": "예씀다 부탁드림다-"
@@ -327,7 +327,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "zuikaku",
+                "name": "zuikaku",
                 "comment": {
                     "jp": "大先輩もこれ作ってるよ！",
                     "ko": "대선배님도 이거 만들고 있어!"
@@ -335,7 +335,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "hibiki",
+                "name": "hibiki",
                 "comment": {
                     "jp": "喉への詰まらせ注意ね！",
                     "ko": "목메이지 않게 조심해!"
@@ -343,7 +343,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ｷﾀ―――(Дﾟ(○＝(ﾟ∀ﾟ)＝○)Дﾟ)―――!!!",
                     "ko": "KITA―――(Дﾟ(○＝(ﾟ∀ﾟ)＝○)Дﾟ)―――!!!"
@@ -351,7 +351,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "hibiki",
+                "name": "hibiki",
                 "comment": {
                     "jp": "ｼｷｶﾝ――(ﾟдﾟ;)))――!!??",
                     "ko": "SKK――(ﾟдﾟ;)))――!!??"
@@ -359,7 +359,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "美味しそう!",
                     "ko": "맛있어보여!"
@@ -367,7 +367,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "hibiki",
+                "name": "hibiki",
                 "comment": {
                     "jp": "響ちゃんのグルメチャンネル、なめるんじゃないぞー!ニヒヒ!",
                     "ko": "히비키짱의 요리채널, 얕보지 말라고! 니히히!"
@@ -385,7 +385,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "agano",
+                "name": "agano",
                 "comment": {
                     "jp": "指揮官様も誘って、一緒に食べればいいのに",
                     "ko": "지휘관님도 초대해서, 같이 먹으면 될텐데"
@@ -393,7 +393,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "noshiro",
+                "name": "noshiro",
                 "comment": {
                     "jp": "そうしたいのはあなた自身でしょうに…この時期のことですから、迷惑だって考えたことがないかしら？",
                     "ko": "그러고 싶은건 당신이겠죠... 지금 시기가 시기니까, 폐가 된다고 생각해본적은 없는 걸까요?"
@@ -401,7 +401,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kirishima",
+                "name": "kirishima",
                 "comment": {
                     "jp": "まあまあ",
                     "ko": "뭐...너무 그러지 말고"
@@ -409,7 +409,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ryuhou",
+                "name": "ryuhou",
                 "comment": {
                     "jp": "この写真っていつもとイメージ違くない？",
                     "ko": "이 사진이랑 평소랑 이미지 다르지않아?"
@@ -417,7 +417,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "noshiro",
+                "name": "noshiro",
                 "comment": {
                     "jp": "やっぱりそう見えますか。阿賀野が撮ったのです",
                     "ko": "역시 그렇게 보였나요. 아가노가 찍은거에요"
@@ -425,7 +425,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "yubari",
+                "name": "yubari",
                 "comment": {
                     "jp": "夕張も食べたい",
                     "ko": "유바리도 먹고싶어"
@@ -433,7 +433,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "noshiro",
+                "name": "noshiro",
                 "comment": {
                     "jp": "良ければ今度おすそ分けしますよ。兵装点検のお礼もしたいので。",
                     "ko": "괜찮다면 다음에 나눠드릴게요. 병장점검때의 사례도 하고싶으니까"
@@ -441,7 +441,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "この時期だからね！",
                     "ko": "요즘 시기니까!"
@@ -449,7 +449,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "noshiro",
+                "name": "noshiro",
                 "comment": {
                     "jp": "この時期だからこそ、ですね。",
                     "ko": "요즘 시기에야말로, 네요"
@@ -457,7 +457,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "良いお年を!",
                     "ko": "새해 복 많이 받아!"
@@ -465,7 +465,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "noshiro",
+                "name": "noshiro",
                 "comment": {
                     "jp": "良いお年をお迎えください",
                     "ko": "새해 복 많이 받으세요"
@@ -483,7 +483,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "z23",
+                "name": "z23",
                 "comment": {
                     "jp": "上手く撮れたようですね！おめでとう！",
                     "ko": "잘 찍힌거 같네요! 축하해요!"
@@ -491,7 +491,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "ニーミ、撮り方教えてくれてありがとう…！",
                     "ko": "니이미, 찍는 법 가르쳐줘서 고마워...!"
@@ -499,7 +499,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "belfast",
+                "name": "belfast",
                 "comment": {
                     "jp": "電子機器には疎いゆえ、お力になれず申し訳ございませんでした",
                     "ko": "전자기기는 생소하기에, 힘이 되어드리지 못해 죄송했습니다"
@@ -507,7 +507,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "ううん、ベルファストさんも色々教えてくれてありがとう！",
                     "ko": "아냐, 벨파스트씨도 이것저것 가르쳐줘서 고마워!"
@@ -515,7 +515,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "可愛い！",
                     "ko": "귀여워!"
@@ -523,7 +523,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "えへへ、お兄ちゃん…あとで送るね…？",
                     "ko": "에헤헤, 오빠... 나중에 보낼게...?"
@@ -531,7 +531,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "イラストリアス…？",
                     "ko": "일러스트리어스...?"
@@ -539,7 +539,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "うん…ユニコーン一人で撮るの、ちょっと怖いから……イラストリアス姉ちゃんも誘ったの",
                     "ko": "응... 유니콘 혼자서 찍는거, 조금 무서우니까... 일러스트리어스 언니도 불렀어"
@@ -557,7 +557,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "atago",
+                "name": "atago",
                 "comment": {
                     "jp": "凄いわ！私も高雄ちゃんに筆をもらって書いてみようかしら？",
                     "ko": "대단해! 나도 타카오짱에게 붓을 받아서 써볼까봐?"
@@ -565,7 +565,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "azuma",
+                "name": "azuma",
                 "comment": {
                     "jp": "筆なら重桜寮の書斎にもありますよ。あとでサロンのほうに紙と一緒に置いておきますね",
                     "ko": "붓이라면 중앵숙소의 서재에도 있어요. 이따 살롱에 종이와 같이 놓아둘게요"
@@ -573,7 +573,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "dunkerque",
+                "name": "dunkerque",
                 "comment": {
                     "jp": "羨ましいわね…私お菓子しか持っていけそうにないもの…",
                     "ko": "부럽네... 난 과자밖에 못 가져갈거 같은데..."
@@ -581,7 +581,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "trento",
+                "name": "trento",
                 "comment": {
                     "jp": "サディアの土産も持っていこうかな～",
                     "ko": "사디아의 선물도 가져갈까~"
@@ -589,7 +589,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "hipper_mu",
+                "name": "hipper_mu",
                 "comment": {
                     "jp": "何だこの集まり！？",
                     "ko": "뭐야 이 모임!?"
@@ -597,7 +597,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "た、達筆………！",
                     "ko": "며, 명필......!"
@@ -605,7 +605,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "friedrich",
+                "name": "friedrich",
                 "comment": {
                     "jp": "褒めてくれてありがとう。ボウヤ",
                     "ko": "칭찬해줘서 고마워. 아가"
@@ -613,7 +613,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "おお・・・・・・!",
                     "ko": "오오......!"
@@ -621,7 +621,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "friedrich",
+                "name": "friedrich",
                 "comment": {
                     "jp": "部屋に飾りたければ声をかけて頂戴。持っていくわ",
                     "ko": "방에 장식할거면 말해줘. 가져갈게"
@@ -639,7 +639,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "陸奥も三笠様からお年玉もらった！嬉しい！",
                     "ko": "무츠도 미카사한테 새뱃돈 받았어! 기뻐!"
@@ -647,7 +647,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "陸奥様、感想は別の発信用アカウントを用意しますから、このアカウントでの発信はちょっと…",
                     "ko": "무츠님, 소감은 다른 발신용 계정을 준비할테니, 이 계정으로 발신은 좀..."
@@ -655,7 +655,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "なんで？別にこのアカウントは「長門姉だよー」って書いてないよ？？？",
                     "ko": "왜? 이 계정에 따로 [나가토언니에요-]라고 적혀있는 것도 아닌데??"
@@ -663,7 +663,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "これはあくまで重桜艦隊の広報用のでして……",
                     "ko": "이 계정은 어디까지나 중앵함대 홍보용이므로..."
@@ -671,7 +671,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "でも長門姉も普通に指揮官に返信書いたよ？",
                     "ko": "하지만 나가토 언니도 그냥 지휘관에게 답장하던데?"
@@ -679,7 +679,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ryuhou",
+                "name": "ryuhou",
                 "comment": {
                     "jp": "？？どうなっているんですか…？",
                     "ko": "?? 어떻게 된건가요...?"
@@ -687,7 +687,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "こっちからもお年玉を用意したぞ",
                     "ko": "이쪽에서도 세뱃돈을 준비했지"
@@ -695,7 +695,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "余を子供扱いする気か！別にいらぬぞ！",
                     "ko": "이 몸을 어린애 취급할 생각인가! 별로 필요없네!"
@@ -703,7 +703,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "すごく嬉しそう！",
                     "ko": "엄청 기뻐보여!"
@@ -711,7 +711,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagato",
+                "name": "nagato",
                 "comment": {
                     "jp": "余は長門であるぞ！お年玉なんてべ、別に嬉しくなんかないぞ！",
                     "ko": "이 몸은 나가토라네! 세뱃돈따위, 별로 기쁘지도 않다네!"
@@ -729,7 +729,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "kasumi",
+                "name": "kasumi",
                 "comment": {
                     "jp": "ふわりん、興味ありそうだから一つもらってもいい…？",
                     "ko": "후와링, 흥미있어보이니까 하나 줄 수 있어...?"
@@ -737,7 +737,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kirishima",
+                "name": "kirishima",
                 "comment": {
                     "jp": "いいよ、あとで駆逐艦のみんなに持っていくからな",
                     "ko": "알았어, 나중에 구축함 애들한테 가져갈게"
@@ -745,7 +745,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "kongo",
+                "name": "kongo",
                 "comment": {
                     "jp": "いつの間にそんなアイテムができましたの？？？",
                     "ko": "어느새 그런 아이템이 생긴건가요??"
@@ -753,7 +753,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kirishima",
+                "name": "kirishima",
                 "comment": {
                     "jp": "「そんなアイテム」はどこにもありませんよ金剛姉さん。ただの冗談だって",
                     "ko": "[그런 아이템]은 어디에도 없어요 콩고언니. 그냥 농담이래"
@@ -761,7 +761,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "で？どこに振り込めばいいのか？",
                     "ko": "그래서? 어디에 입금하면 되는거지?"
@@ -769,7 +769,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kirishima",
+                "name": "kirishima",
                 "comment": {
                     "jp": "重桜寮金剛型の霧島にご連絡くださいませ！ははは！",
                     "ko": "중앵숙소 콩고급 키리시마에게 연락주십시오! 하하하!"
@@ -777,7 +777,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "アカウント乗っ取られた・・・？",
                     "ko": "계정 뺏겼어...?"
@@ -785,7 +785,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kirishima",
+                "name": "kirishima",
                 "comment": {
                     "jp": "乗っ取られてない。ただの漫才だよ、ははは！",
                     "ko": "뺏기지 않았어. 그냥 만담이야, 하하하!"
@@ -803,7 +803,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "i58",
+                "name": "i58",
                 "comment": {
                     "jp": "確証はないけど、写真を見ている限り、長さも装飾も重桜のと同じように見えるね…",
                     "ko": "확증은 없지만, 사진으로 보기에는 길이나 장식이나 중앵것과 같아보이네..."
@@ -811,7 +811,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "i58",
+                "name": "i58",
                 "comment": {
                     "jp": "となると、素材の方でなにか違う、ということになるのかな…",
                     "ko": "그럼, 소재 쪽이 뭔가 다르다는 뜻인가..."
@@ -819,7 +819,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "i26",
+                "name": "i26",
                 "comment": {
                     "jp": "そ、そんなことはないよ？なにも変わってないから！",
                     "ko": "그, 그렇지는 않을걸? 아무것도 안바뀌었으니까!"
@@ -827,7 +827,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "i25",
+                "name": "i25",
                 "comment": {
                     "jp": "なんで伊26がリプライしたの…？",
                     "ko": "왜 이26이 댓글을 단거야...?"
@@ -835,7 +835,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "shoho",
+                "name": "shoho",
                 "comment": {
                     "jp": "あー多分これ明石が原価をケチったんやないかな…",
                     "ko": "아- 아마 이거 아카시가 원가에서 좀 줄인게 아닐까..."
@@ -843,7 +843,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "なにかが仕込まれている？",
                     "ko": "좀 구린게 있나?"
@@ -851,7 +851,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ryuhou",
+                "name": "ryuhou",
                 "comment": {
                     "jp": "え！？すぐにでも調べないと！",
                     "ko": "에!? 지금 바로 알아봐야지!"
@@ -859,7 +859,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "具体的にいえば？",
                     "ko": "구체적으로 말하자면?"
@@ -867,7 +867,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ryuhou",
+                "name": "ryuhou",
                 "comment": {
                     "jp": "上手く言えませんけど、なんかほんのちょっとだけ軽くなった気がします",
                     "ko": "잘은 모르겠지만, 뭔가 정말 약간 가벼워진 느낌이 듭니다"
@@ -885,7 +885,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "z36",
+                "name": "z36",
                 "comment": {
                     "jp": "【魔眼の神託】カードをいち早く使わなければよかったね",
                     "ko": "【마안의 신탁】 카드를 빨리 쓰지 않았으면 좋았을텐데"
@@ -893,7 +893,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z35",
+                "name": "z35",
                 "comment": {
                     "jp": "ゼクちゃんなんで教えてくれなかったの！フュンちゃん初心者なのに！",
                     "ko": "제크짱 왜 가르쳐 주지 않은거야! 퓐짱 초보자인데!"
@@ -901,7 +901,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z36",
+                "name": "z36",
                 "comment": {
                     "jp": "【魔眼の神託】（こっちも初心者だけど…）",
                     "ko": "【마안의 신탁】 (이쪽도 초보자인데...)"
@@ -909,7 +909,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "saratoga",
+                "name": "saratoga",
                 "comment": {
                     "jp": "フュンちゃん考えてること全部顔に出るタイプかな？持ってるカード全部お見通しだったよ！",
                     "ko": "퓐짱은 생각하는게 전부 얼굴에 드러나는 타입일까? 갖고있는 카드 전부 알고있었어!"
@@ -917,7 +917,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z35",
+                "name": "z35",
                 "comment": {
                     "jp": "そんな事言わないでくださいヨ！（涙",
                     "ko": "그런 말 하지 말아주세요! (눈물"
@@ -925,7 +925,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z23",
+                "name": "z23",
                 "comment": {
                     "jp": "確かにサラトガさんの言う通り表情を隠したほうがいいですね…",
                     "ko": "확실히 새러토가씨가 말하는 대로 표정을 숨기는 쪽이 좋겠네요..."
@@ -933,7 +933,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z35",
+                "name": "z35",
                 "comment": {
                     "jp": "そういうニーミちゃんもフュンちゃんと似たようなものじゃない？",
                     "ko": "그러는 니이미짱도 퓐짱이랑 비슷하지 않아?"
@@ -941,7 +941,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "東煌の子たちがやってたアレか？",
                     "ko": "이스트 글림 애들이 하던 그건가?"
@@ -949,7 +949,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z35",
+                "name": "z35",
                 "comment": {
                     "jp": "残念！これはユニオンのほうに近いね！指揮官もやったことあるんだ…",
                     "ko": "땡! 이건 유니온 쪽에 가까워! 지휘관도 한적 있구나..."
@@ -957,7 +957,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "幸運を祈ろう！",
                     "ko": "행운을 빌게!"
@@ -965,7 +965,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "z35",
+                "name": "z35",
                 "comment": {
                     "jp": "祈られちゃった！（普通に楽しかったね！",
                     "ko": "지휘관이 빌어줬어! (평범하게 즐거웠어!"
@@ -983,7 +983,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "shiranui",
+                "name": "shiranui",
                 "comment": {
                     "jp": "雪玉を作るのに何も饅頭まで入れなくてもいいと思いますが…",
                     "ko": "눈덩이를 만드는데 굳이 만쥬까지 넣을 필요는 없다고 생각하는데요..."
@@ -991,7 +991,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kasumi",
+                "name": "kasumi",
                 "comment": {
                     "jp": "そうなの？",
                     "ko": "그래?"
@@ -999,7 +999,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "myoko",
+                "name": "myoko",
                 "comment": {
                     "jp": "意外と痛いわね…霞、本気で頑張りすぎてませんか？",
                     "ko": "의외로 아프네... 카스미, 진짜 너무 열심히 하는거 아닌가요?"
@@ -1007,7 +1007,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "楽しそう！",
                     "ko": "재밌을거 같아!"
@@ -1015,7 +1015,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kasumi",
+                "name": "kasumi",
                 "comment": {
                     "jp": "指揮官も一緒にやると、もっと楽しそう…",
                     "ko": "지휘관도 같이 하면, 더 재밌을거 같아..."
@@ -1023,7 +1023,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ふわりんは・・・どこ・・・?",
                     "ko": "후와링은... 어디...?"
@@ -1031,7 +1031,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kasumi",
+                "name": "kasumi",
                 "comment": {
                     "jp": "見えないの・・・?",
                     "ko": "안보여...?"
@@ -1049,7 +1049,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "isuzu",
+                "name": "isuzu",
                 "comment": {
                     "jp": "あの光ってるもの…ジュノーちゃんのものじゃない？",
                     "ko": "저 빛나는 물건... 쥬노짱거 아냐?"
@@ -1057,7 +1057,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "nagara",
+                "name": "nagara",
                 "comment": {
                     "jp": "鬼怒、まさかこんなことをする子だなんて……",
                     "ko": "키누, 설마 이런짓을 하는 아이였다니..."
@@ -1065,7 +1065,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kinu",
+                "name": "kinu",
                 "comment": {
                     "jp": "本人からちょっと借りただけだ！写真も見せてあるぞ！",
                     "ko": "본인한테 잠깐 빌린것뿐이야! 사진도 보여줬어!"
@@ -1073,7 +1073,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "阿武隈",
+                "name": "阿武隈",
                 "comment": {
                     "jp": "片付けのときはあてを呼んでね",
                     "ko": "정리할 떄는 날 불러줘"
@@ -1081,7 +1081,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kinu",
+                "name": "kinu",
                 "comment": {
                     "jp": "え？もうそんな時期か？",
                     "ko": "에? 벌써 그런 시기인가?"
@@ -1089,7 +1089,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "いいセンスだ",
                     "ko": "좋은 센스다"
@@ -1097,7 +1097,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kinu",
+                "name": "kinu",
                 "comment": {
                     "jp": "指揮官には分かるのか？中々理解者がいなくてな",
                     "ko": "지휘관은 알아주는건가? 이해해주는 사람이 별로 없어서 말이야"
@@ -1105,7 +1105,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "名前をつけるならスノーオーガ?",
                     "ko": "이름을 붙이자면 스노우오거?"
@@ -1113,7 +1113,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "kinu",
+                "name": "kinu",
                 "comment": {
                     "jp": "あてなら「オーガ」より「白令の氷鬼」って名前をつけるな・・・さすがにやりすぎか",
                     "ko": "나라면 오거보다는 백령의빙귀라고 할거야... 너무 심했나"
@@ -1131,7 +1131,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "columbia",
+                "name": "columbia",
                 "comment": {
                     "jp": "言わんこっちゃない:3",
                     "ko": "말할 것도 없어 :3"
@@ -1139,7 +1139,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "denver",
+                "name": "denver",
                 "comment": {
                     "jp": "私が相手のときはあんなに強い姉貴が…重桜、恐るべし……！",
                     "ko": "내가 상대할 때는 그렇게나 강했던 언니가... 중앵, 두렵다...!"
@@ -1147,7 +1147,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "montpelier",
+                "name": "montpelier",
                 "comment": {
                     "jp": "姉貴の仇を討つぞ",
                     "ko": "언니의 원수를 갚자고"
@@ -1155,7 +1155,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "バーミンガム",
+                "name": "バーミンガム",
                 "comment": {
                     "jp": "了解",
                     "ko": "확인"
@@ -1163,7 +1163,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "討つなって！",
                     "ko": "갚지마!"
@@ -1171,7 +1171,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "姉貴、ファイト！",
                     "ko": "누님, 파이팅!"
@@ -1179,7 +1179,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "サンキュー！あとでまた練習付き合って！",
                     "ko": "땡큐! 나중에 또 연습도와줘!"
@@ -1187,7 +1187,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "なぜ写真をアップするんだ…？",
                     "ko": "왜 사진을 올리는거야...?"
@@ -1195,7 +1195,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "cleveland_mu",
+                "name": "cleveland_mu",
                 "comment": {
                     "jp": "屈辱的な敗北を忘れないように戒めるためだ！決して罰ゲームじゃないぞ！",
                     "ko": "굴욕적인 패배를 잊지않도록 남겨두는거야! 결코 벌칙이 아니야!"
@@ -1213,7 +1213,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "エディンバラ",
+                "name": "エディンバラ",
                 "comment": {
                     "jp": "寒そうですね…今度出かけるときはお着替えを用意しますよ！",
                     "ko": "추워보이네요... 다음번 외출때는 갈아입을 옷을 준비할게요!"
@@ -1221,7 +1221,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "エディンバラさん、心配してくれてありがとう！でも大丈夫…！",
                     "ko": "에든버러씨, 걱정해줘서 고마워! 하지만 괜찮아...!"
@@ -1229,7 +1229,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ayanami",
+                "name": "ayanami",
                 "comment": {
                     "jp": "ゆーちゃん…変な生き物です…",
                     "ko": "유짱... 이상한 생물이에요..."
@@ -1237,7 +1237,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "？？ぬいぐるみだよ…？",
                     "ko": "?? 인형이야...?"
@@ -1245,7 +1245,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "ゆーちゃん器用！",
                     "ko": "유짱 굉장해!"
@@ -1253,7 +1253,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "えへへ、ゆーちゃん、色々とできるよ…？",
                     "ko": "에헤헤, 유짱, 이것저것 할 줄 알거든...?"
@@ -1261,7 +1261,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "可愛い！",
                     "ko": "귀여워!"
@@ -1269,7 +1269,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "えへへ、お兄ちゃんありがとう…！",
                     "ko": "에헤헤, 오빠 고마워...!"
@@ -1287,7 +1287,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "すごく楽しそう……",
                     "ko": "엄청 재밌을거 같아......"
@@ -1295,7 +1295,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "southampton",
+                "name": "southampton",
                 "comment": {
                     "jp": "ユニコーンちゃんに今度貸してあげるよ！あっ、揚げ方も教えたほうがいいかな？明日でもいい？",
                     "ko": "다음에 유니콘짱한테도 빌려줄게! 아, 날리는법도 가르쳐주는게 좋으려나? 내일도 괜찮아?"
@@ -1303,7 +1303,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "unicorn",
+                "name": "unicorn",
                 "comment": {
                     "jp": "うん！ありがとう！",
                     "ko": "응! 고마워!"
@@ -1311,7 +1311,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "明日の合同演習準備は終わった？",
                     "ko": "내일하는 합동연습준비는 끝났나?"
@@ -1319,7 +1319,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "southampton",
+                "name": "southampton",
                 "comment": {
                     "jp": "やってます！やっていますです！",
                     "ko": "하고있어요! 하고있어요에요!"
@@ -1327,7 +1327,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "サウサンプトンが自分で作ったの？",
                     "ko": "사우스햄튼이 직접 만든거야?"
@@ -1335,7 +1335,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "southampton",
+                "name": "southampton",
                 "comment": {
                     "jp": "違いますよーこれは明石の店で買いましたー",
                     "ko": "아니에요~ 이건 아카시네 가게에서 샀어요~"
@@ -1343,7 +1343,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "楽しそう!",
                     "ko": "재밌어보여!"
@@ -1351,7 +1351,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "southampton",
+                "name": "southampton",
                 "comment": {
                     "jp": "指揮官様も今度やりません?あ、非番の日にです!",
                     "ko": "지휘관님도 다음에 하실래요? 아, 비번날에요!"
@@ -1369,7 +1369,7 @@
         "comments": [
             {
                 "depth": 0,
-                "kansen": "glorius",
+                "name": "glorius",
                 "comment": {
                     "jp": "ごめんなさいアーク・ロイヤルさん！写真間違えました！上げ直しお願いします…",
                     "ko": "미안해요 아크로열씨! 다른 사진이에요! 다시 올려주세요..."
@@ -1377,7 +1377,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "頼む！",
                     "ko": "부탁하지!"
@@ -1385,7 +1385,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "belfast",
+                "name": "belfast",
                 "comment": {
                     "jp": "写真の方を確認させていただきました。この度の無礼、誠に申し訳ございませんでした",
                     "ko": "사진을 확인했습니다. 이전번의 무례, 깊게 사과드립니다"
@@ -1393,7 +1393,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "別に大丈夫だ。むしろこっちが手間をかけてしまったな。感謝する",
                     "ko": "괜찮다. 오히려 이쪽에서 귀찮게 해버렸군. 감사한다"
@@ -1401,7 +1401,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "誰が撮ったんだ…？",
                     "ko": "누가 찍은거야...?"
@@ -1409,7 +1409,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "同じ志を持つ友人だ。案ずることはない",
                     "ko": "마음을 같이한 벗이다. 걱정할 필요는 없다"
@@ -1417,7 +1417,7 @@
             },
             {
                 "depth": 0,
-                "kansen": "commander",
+                "name": "commander",
                 "comment": {
                     "jp": "誰を撮るつもりだ・・・?",
                     "ko": "누구를 찍으려는 거야...?"
@@ -1425,7 +1425,7 @@
             },
             {
                 "depth": 1,
-                "kansen": "ark_royal",
+                "name": "ark_royal",
                 "comment": {
                     "jp": "守るべき仲間たちだ。別にやましい気持ちなどないぞ!",
                     "ko": "지켜야할 동료들이다. 딱히 나쁜 마음따위는 없다!"
