@@ -16,6 +16,15 @@ const nameDict: {[x: string]: string} = {
     shoukaku: "KADEKURU",
     zuikaku: "Zuikaku",
     belfast: "Belfast_inService",
+
+    // 20설날
+    suruga: "S8u6r6ug8A",
+    kongo: "BarrowYoko",
+    kasumi: "fuwarin1118",
+    nagato: "SakuraCombinedFleet",
+    ark_royal: "ArkRoyal_Defense",
+    ayanami: "AYANAMIN",
+    
 };
 
 const getAccount = (name: string) => nameDict[name] ?? '-';

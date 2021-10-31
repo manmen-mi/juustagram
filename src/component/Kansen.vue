@@ -36,5 +36,7 @@ defineProps({
   &shoukaku { background: url(../icons/polaris.png) -40px -80px; }
   &zuikaku { background: url(../icons/polaris.png) -80px -80px; }
 
+  // 20설날
+  
 }
 </style>
