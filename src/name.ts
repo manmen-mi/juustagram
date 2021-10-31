@@ -24,7 +24,42 @@ const nameDict: {[x: string]: string} = {
     nagato: "SakuraCombinedFleet",
     ark_royal: "ArkRoyal_Defense",
     ayanami: "AYANAMIN",
-    
+    hibiki: "HibikiChannel",
+    inazuma: "DEN",
+    ikazuchi: "RAI",
+    akatsuki: "NINJA-AKATSUKI",
+    fubuki: "bukkitoku1",
+    noshiro: "Nshiro",
+    agano: "FinalOTU",
+    kirishima: "KirinnKS",
+    ryuhou: "PhoenixWhale",
+    yubari: "Kagakubu.org",
+    unicorn: "UnicornI72",
+    z23: "Zerstörer.23",
+    friedrich: "SymphonicStigma",
+    atago: "Atago",
+    azuma: "AzumaB65",
+    dunkerque: "gateaumistress",
+    trento: "Da Trento",
+    i58: "I58_sensuisenntai",
+    i26: "I26_sensuisenntai",
+    i25: "I25_sensuisenntai",
+    shoho: "SHOHO",
+    z35: "funf&#9825;3536",
+    z36: "Zech3536",
+    saratoga: "SisterSara",
+    shiranui: "KoubaiStaff_unofficial",
+    myoko: "Myoko_CA",
+    kinu: "RageofONI",
+    isuzu: "Isuzuzu",
+    nagara: "Nagara_CA",
+    abukuma: "AbuAbu",
+    birmingham: "Cleve-FC.4",
+    edinburgh: "☆ Royal Maid ☆",
+    Southampton: "MINAMIpton",
+    glorius: "Glorius"
+
+    //
 };
 
 const getAccount = (name: string) => nameDict[name] ?? '-';
